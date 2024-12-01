@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            color: #333;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+        form {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+            width: 90%;
+            max-width: 500px;
+            animation: slideInUp 1s ease-out;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        input[type="text"], select, input[type="file"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            transition: border-color 0.3s;
+        }
+        input[type="text"]:focus, select:focus, input[type="file"]:focus {
+            border-color: #6c757d;
+        }
+        input[type="submit"] {
+            background-color: #28a745;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: background-color 0.3s;
+        }
+        input[type="submit"]:hover {
+            background-color: #218838;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        @keyframes slideInUp {
+            from { transform: translateY(20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        /* Responsive design */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2em;
+            }
+            form {
+                width: 100%;
+                padding: 20px;
+            }
+            input[type="submit"] {
+                width: 100%;
+            }
+        }
+        /* Custom styling for better appearance */
+        .container {
+            text-align: center;
+        }
+        .form-header {
+            margin-bottom: 20px;
+        }
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const forms = document.querySelectorAll("form");
+            forms.forEach(form => {
+                form.addEventListener("submit", function() {
+                    this.querySelector("input[type='submit']").value = "Processing...";
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Prediction App</h1>
+
+        <div class="form-container">
+            <div class="form-header">
+                <h2>Select Model and Upload File for Prediction</h2>
+            </div>
+            <form action="/upload" method="post" enctype="multipart/form-data">
+                <label for="model">Select Model:</label>
+                <select id="model" name="model">
+                    <option value="linear">Linear Regression</option>
+                    <option value="random_forest">Random Forest</option>
+                    <option value="gradient_boosting">Gradient Boosting</option>
+                </select>
+                <input type="file" name="file" required>
+                <input type="submit" value="Upload">
+            </form>
+        </div>
+
+        <div class="form-container">
+            <div class="form-header">
+                <h2>Enter Single Record for Prediction</h2>
+            </div>
+            <form action="/predict" method="post">
+                <label for="model">Select Model:</label>
+                <select id="model" name="model">
+                    <option value="linear">Linear Regression</option>
+                    <option value="random_forest">Random Forest</option>
+                    <option value="gradient_boosting">Gradient Boosting</option>
+                </select>
+                <label for="Item_Weight">Item Weight:</label>
+                <input type="text" id="Item_Weight" name="Item_Weight" required>
+                <label for="Item_Visibility">Item Visibility:</label>
+                <input type="text" id="Item_Visibility" name="Item_Visibility" required>
+                <label for="Item_MRP">Item MRP:</label>
+                <input type="text" id="Item_MRP" name="Item_MRP" required>
+                <label for="O_Years">O Years:</label>
+                <input type="text" id="O_Years" name="O_Years" required>
+                <label for="I_Fate_Content">Item Fat Content:</label>
+                <input type="text" id="I_Fate_Content" name="I_Fate_Content" required>
+                <label for="I_Type">Item Type:</label>
+                <input type="text" id="I_Type" name="I_Type" required>
+                <label for="O_Size">Outlet Size:</label>
+                <input type="text" id="O_Size" name="O_Size" required>
+                <label for="O_Location_Type">Outlet Location Type:</label>
+                <input type="text" id="O_Location_Type" name="O_Location_Type" required>
+                <label for="O_Type">Outlet Type:</label>
+                <input type="text" id="O_Type" name="O_Type" required>
+                <input type="submit" value="Predict">
+            </form>
+        </div>
+    </div>
+</body>
+</html>
