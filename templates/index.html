@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prediction App</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -20,7 +19,6 @@
         h1 {
             font-size: 2.5em;
             margin-bottom: 20px;
-            animation: fadeIn 1.5s ease-in-out;
         }
         form {
             background: #fff;
@@ -30,7 +28,6 @@
             margin-bottom: 30px;
             width: 90%;
             max-width: 500px;
-            animation: slideInUp 1s ease-out;
         }
         label {
             display: block;
@@ -44,11 +41,6 @@
             margin-bottom: 15px;
             border: 1px solid #ccc;
             border-radius: 4px;
-            box-sizing: border-box;
-            transition: border-color 0.3s;
-        }
-        input[type="text"]:focus, select:focus, input[type="file"]:focus {
-            border-color: #6c757d;
         }
         input[type="submit"] {
             background-color: #28a745;
@@ -58,33 +50,10 @@
             border-radius: 4px;
             cursor: pointer;
             font-size: 1em;
-            transition: background-color 0.3s;
         }
         input[type="submit"]:hover {
             background-color: #218838;
         }
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-        @keyframes slideInUp {
-            from { transform: translateY(20px); opacity: 0; }
-            to { transform: translateY(0); opacity: 1; }
-        }
-        /* Responsive design */
-        @media (max-width: 600px) {
-            h1 {
-                font-size: 2em;
-            }
-            form {
-                width: 100%;
-                padding: 20px;
-            }
-            input[type="submit"] {
-                width: 100%;
-            }
-        }
-        /* Custom styling for better appearance */
         .container {
             text-align: center;
         }
@@ -92,24 +61,15 @@
             margin-bottom: 20px;
         }
     </style>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const forms = document.querySelectorAll("form");
-            forms.forEach(form => {
-                form.addEventListener("submit", function() {
-                    this.querySelector("input[type='submit']").value = "Processing...";
-                });
-            });
-        });
-    </script>
 </head>
 <body>
     <div class="container">
         <h1>Prediction App</h1>
 
+        <!-- File Upload Form -->
         <div class="form-container">
             <div class="form-header">
-                <h2>Select Model and Upload File for Prediction</h2>
+                <h2>Upload CSV File for Prediction</h2>
             </div>
             <form action="/upload" method="post" enctype="multipart/form-data">
                 <label for="model">Select Model:</label>
@@ -123,6 +83,7 @@
             </form>
         </div>
 
+        <!-- Manual Entry Form -->
         <div class="form-container">
             <div class="form-header">
                 <h2>Enter Single Record for Prediction</h2>

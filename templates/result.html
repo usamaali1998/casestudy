@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Results</title>
+</head>
+<body>
+    <h1>Prediction Results</h1>
+    <div>
+        <h2>Visualizations</h2>
+        {% for graph_path in graph_paths %}
+        <div>
+            <img src="{{ graph_path }}" alt="Graph" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+        </div>
+        {% endfor %}
+    </div>
+    <div>
+        <h2>Download Predictions</h2>
+        <a href="/static/predictions.xlsx" download>Download Predictions File</a>
+    </div>
+</body>
+</html>
