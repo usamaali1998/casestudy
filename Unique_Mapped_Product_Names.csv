@@ -1,0 +1,1560 @@
+,Unnamed: 0,Item_Identifier,Item_Type,Physical_Product_Name
+0,0,FDA15,Dairy,Milk
+1,1,DRC01,Soft Drinks,Cola
+2,2,FDN15,Meat,Chicken Breast
+3,3,FDX07,Fruits and Vegetables,Apples
+4,4,NCD19,Household,Detergent
+5,5,FDP36,Baking Goods,All-Purpose Flour
+6,6,FDO10,Snack Foods,Potato Chips
+7,7,FDP10,Snack Foods,Potato Chips
+8,8,FDH17,Frozen Foods,Frozen Pizza
+9,9,FDU28,Frozen Foods,Frozen Pizza
+10,10,FDY07,Fruits and Vegetables,Apples
+11,11,FDA03,Dairy,Milk
+12,12,FDX32,Fruits and Vegetables,Apples
+13,13,FDS46,Snack Foods,Potato Chips
+14,14,FDF32,Fruits and Vegetables,Apples
+15,15,FDP49,Breakfast,Oats
+16,16,NCB42,Health and Hygiene,Toothpaste
+18,18,DRI11,Hard Drinks,Whiskey
+19,19,FDU02,Dairy,Milk
+20,20,FDN22,Snack Foods,Potato Chips
+21,21,FDW12,Baking Goods,All-Purpose Flour
+22,22,NCB30,Household,Detergent
+23,23,FDC37,Baking Goods,All-Purpose Flour
+24,24,FDR28,Frozen Foods,Frozen Pizza
+25,25,NCD06,Household,Detergent
+26,26,FDV10,Snack Foods,Potato Chips
+27,27,DRJ59,Hard Drinks,Whiskey
+28,28,FDE51,Dairy,Milk
+29,29,FDC14,Canned,Canned Beans
+30,30,FDV38,Dairy,Milk
+31,31,NCS17,Health and Hygiene,Toothpaste
+32,32,FDP33,Snack Foods,Potato Chips
+33,33,FDO23,Breads,Whole Wheat Bread
+34,34,DRH01,Soft Drinks,Cola
+35,35,NCX29,Health and Hygiene,Toothpaste
+36,36,FDV20,Fruits and Vegetables,Apples
+37,37,DRZ11,Soft Drinks,Cola
+38,38,FDX10,Snack Foods,Potato Chips
+39,39,FDB34,Snack Foods,Potato Chips
+41,41,FDK43,Meat,Chicken Breast
+42,42,FDA46,Snack Foods,Potato Chips
+43,43,FDC02,Canned,Canned Beans
+44,44,FDL50,Canned,Canned Beans
+45,45,FDM39,Dairy,Milk
+46,46,NCP05,Health and Hygiene,Toothpaste
+47,47,FDV49,Canned,Canned Beans
+48,48,FDL12,Baking Goods,All-Purpose Flour
+49,49,FDS02,Dairy,Milk
+50,50,NCL17,Health and Hygiene,Toothpaste
+51,51,FDM40,Frozen Foods,Frozen Pizza
+52,52,FDR13,Canned,Canned Beans
+53,53,FDA43,Fruits and Vegetables,Apples
+54,54,NCP18,Household,Detergent
+55,55,FDK21,Snack Foods,Potato Chips
+56,56,NCX54,Household,Detergent
+57,57,DRK35,Hard Drinks,Whiskey
+58,58,FDY21,Snack Foods,Potato Chips
+59,59,FDI26,Canned,Canned Beans
+60,60,FDM20,Fruits and Vegetables,Apples
+61,61,FDV27,Meat,Chicken Breast
+62,62,FDF09,Fruits and Vegetables,Apples
+63,63,FDY40,Frozen Foods,Frozen Pizza
+64,64,FDY45,Snack Foods,Potato Chips
+65,65,FDC46,Snack Foods,Potato Chips
+66,66,FDH19,Meat,Chicken Breast
+67,67,FDZ03,Dairy,Milk
+68,68,DRH37,Soft Drinks,Cola
+69,69,NCI17,Health and Hygiene,Toothpaste
+70,70,FDJ58,Snack Foods,Potato Chips
+72,72,FDH35,Starchy Foods,Rice
+73,73,FDG02,Canned,Canned Beans
+74,74,NCZ18,Household,Detergent
+75,75,FDC29,Frozen Foods,Frozen Pizza
+76,76,FDQ10,Snack Foods,Potato Chips
+77,77,FDN48,Baking Goods,All-Purpose Flour
+78,78,FDL04,Frozen Foods,Frozen Pizza
+79,79,FDV25,Canned,Canned Beans
+80,80,FDD58,Snack Foods,Potato Chips
+81,81,FDN04,Frozen Foods,Frozen Pizza
+82,82,FDV45,Snack Foods,Potato Chips
+83,83,NCL18,Household,Detergent
+84,84,FDR12,Baking Goods,All-Purpose Flour
+85,85,FDG20,Fruits and Vegetables,Apples
+86,86,FDZ55,Fruits and Vegetables,Apples
+87,87,FDQ49,Breakfast,Oats
+88,88,FDN33,Snack Foods,Potato Chips
+89,89,FDN27,Meat,Chicken Breast
+90,90,FDW20,Fruits and Vegetables,Apples
+91,91,DRG27,Dairy,Milk
+92,92,DRI25,Soft Drinks,Cola
+93,93,FDA44,Fruits and Vegetables,Apples
+94,94,NCR17,Health and Hygiene,Toothpaste
+95,95,FDU04,Frozen Foods,Frozen Pizza
+96,96,FDF41,Frozen Foods,Frozen Pizza
+97,97,FDB56,Fruits and Vegetables,Apples
+100,100,FDT28,Frozen Foods,Frozen Pizza
+101,101,FDD10,Snack Foods,Potato Chips
+102,102,FDW57,Snack Foods,Potato Chips
+103,103,DRB48,Soft Drinks,Cola
+104,104,FDP09,Snack Foods,Potato Chips
+105,105,FDH14,Canned,Canned Beans
+106,106,FDA47,Baking Goods,All-Purpose Flour
+107,107,FDG12,Baking Goods,All-Purpose Flour
+108,108,DRE60,Soft Drinks,Cola
+109,109,DRK49,Soft Drinks,Cola
+110,110,FDD03,Dairy,Milk
+111,111,FDS52,Frozen Foods,Frozen Pizza
+112,112,FDW39,Meat,Chicken Breast
+113,113,FDX34,Snack Foods,Potato Chips
+114,114,FDV11,Breads,Whole Wheat Bread
+115,115,FDD17,Frozen Foods,Frozen Pizza
+116,116,FDZ16,Frozen Foods,Frozen Pizza
+117,117,FDZ46,Snack Foods,Potato Chips
+118,118,DRA12,Soft Drinks,Cola
+119,119,FDY58,Snack Foods,Potato Chips
+120,120,NCF19,Household,Detergent
+121,121,DRJ13,Soft Drinks,Cola
+122,122,FDB14,Canned,Canned Beans
+123,123,FDJ38,Canned,Canned Beans
+124,124,FDW11,Breads,Whole Wheat Bread
+125,125,FDL40,Frozen Foods,Frozen Pizza
+126,126,DRI49,Soft Drinks,Cola
+128,128,DRG23,Hard Drinks,Whiskey
+129,129,NCP30,Household,Detergent
+130,130,FDY25,Canned,Canned Beans
+131,131,NCH54,Household,Detergent
+132,132,NCR53,Health and Hygiene,Toothpaste
+135,135,NCO26,Household,Detergent
+137,137,FDB51,Dairy,Milk
+138,138,FDX44,Fruits and Vegetables,Apples
+139,139,NCN07,Others,Miscellaneous Grocery Items
+140,140,NCC31,Household,Detergent
+142,142,NCO55,Others,Miscellaneous Grocery Items
+143,143,NCC30,Household,Detergent
+144,144,FDI16,Frozen Foods,Frozen Pizza
+145,145,FDP16,Frozen Foods,Frozen Pizza
+146,146,FDB11,Starchy Foods,Rice
+147,147,NCB06,Health and Hygiene,Toothpaste
+148,148,FDA45,Snack Foods,Potato Chips
+150,150,DRJ25,Soft Drinks,Cola
+152,152,FDI04,Frozen Foods,Frozen Pizza
+153,153,DRK12,Soft Drinks,Cola
+154,154,FDX20,Fruits and Vegetables,Apples
+155,155,NCI18,Household,Detergent
+156,156,FDB36,Baking Goods,All-Purpose Flour
+157,157,FDN13,Breakfast,Oats
+158,158,DRD24,Soft Drinks,Cola
+159,159,FDQ28,Frozen Foods,Frozen Pizza
+160,160,FDM22,Snack Foods,Potato Chips
+161,161,FDR07,Fruits and Vegetables,Apples
+163,163,DRF49,Soft Drinks,Cola
+164,164,FDW51,Meat,Chicken Breast
+165,165,DRL01,Soft Drinks,Cola
+166,166,FDP25,Canned,Canned Beans
+170,170,NCM43,Others,Miscellaneous Grocery Items
+171,171,FDK44,Fruits and Vegetables,Apples
+172,172,FDM15,Meat,Chicken Breast
+173,173,FDS31,Fruits and Vegetables,Apples
+174,174,FDI32,Fruits and Vegetables,Apples
+175,175,FDR47,Breads,Whole Wheat Bread
+176,176,FDB35,Starchy Foods,Rice
+177,177,NCU05,Health and Hygiene,Toothpaste
+178,178,DRY23,Soft Drinks,Cola
+179,179,FDO24,Baking Goods,All-Purpose Flour
+181,181,FDV39,Meat,Chicken Breast
+182,182,NCO17,Health and Hygiene,Toothpaste
+183,183,FDU50,Dairy,Milk
+184,184,FDT12,Baking Goods,All-Purpose Flour
+185,185,FDK58,Snack Foods,Potato Chips
+186,186,FDO08,Fruits and Vegetables,Apples
+187,187,NCW29,Health and Hygiene,Toothpaste
+188,188,FDE04,Frozen Foods,Frozen Pizza
+189,189,NCB19,Household,Detergent
+190,190,FDV15,Meat,Chicken Breast
+191,191,FDL58,Snack Foods,Potato Chips
+192,192,FDA08,Fruits and Vegetables,Apples
+193,193,FDT43,Fruits and Vegetables,Apples
+194,194,NCX06,Household,Detergent
+195,195,FDT20,Fruits and Vegetables,Apples
+196,196,FDB41,Frozen Foods,Frozen Pizza
+197,197,NCN55,Others,Miscellaneous Grocery Items
+198,198,FDE40,Dairy,Milk
+199,199,FDX49,Canned,Canned Beans
+200,200,NCM53,Health and Hygiene,Toothpaste
+201,201,FDE36,Baking Goods,All-Purpose Flour
+202,202,FDN57,Snack Foods,Potato Chips
+203,203,FDI24,Baking Goods,All-Purpose Flour
+204,204,FDI19,Meat,Chicken Breast
+205,205,FDF24,Baking Goods,All-Purpose Flour
+206,206,FDG52,Frozen Foods,Frozen Pizza
+207,207,DRF36,Soft Drinks,Cola
+208,208,FDS45,Snack Foods,Potato Chips
+209,209,FDX40,Frozen Foods,Frozen Pizza
+211,211,DRC27,Dairy,Milk
+213,213,NCD30,Household,Detergent
+214,214,NCZ54,Household,Detergent
+215,215,FDE10,Snack Foods,Potato Chips
+216,216,FDR44,Fruits and Vegetables,Apples
+217,217,FDP28,Frozen Foods,Frozen Pizza
+218,218,FDX15,Meat,Chicken Breast
+219,219,FDA39,Meat,Chicken Breast
+220,220,FDY24,Baking Goods,All-Purpose Flour
+221,221,FDC60,Baking Goods,All-Purpose Flour
+222,222,FDH28,Frozen Foods,Frozen Pizza
+223,223,FDT25,Canned,Canned Beans
+225,225,NCO07,Others,Miscellaneous Grocery Items
+227,227,DRF27,Dairy,Milk
+228,228,FDS49,Canned,Canned Beans
+229,229,FDX25,Canned,Canned Beans
+230,230,NCX42,Household,Detergent
+231,231,FDG33,Seafood,Salmon
+232,232,FDL56,Fruits and Vegetables,Apples
+233,233,FDF14,Canned,Canned Beans
+235,235,DRM47,Hard Drinks,Whiskey
+238,238,FDX21,Snack Foods,Potato Chips
+240,240,NCR38,Household,Detergent
+241,241,NCR18,Household,Detergent
+242,242,NCU41,Health and Hygiene,Toothpaste
+243,243,FDY56,Fruits and Vegetables,Apples
+244,244,DRJ51,Dairy,Milk
+247,247,FDU44,Fruits and Vegetables,Apples
+248,248,FDL43,Meat,Chicken Breast
+249,249,FDF05,Frozen Foods,Frozen Pizza
+250,250,DRF15,Dairy,Milk
+251,251,FDL20,Fruits and Vegetables,Apples
+252,252,FDV32,Fruits and Vegetables,Apples
+253,253,FDJ34,Snack Foods,Potato Chips
+254,254,FDG08,Fruits and Vegetables,Apples
+255,255,FDQ04,Frozen Foods,Frozen Pizza
+256,256,FDW13,Canned,Canned Beans
+258,258,FDY03,Meat,Chicken Breast
+259,259,FDS12,Baking Goods,All-Purpose Flour
+260,260,FDJ55,Meat,Chicken Breast
+261,261,DRK01,Soft Drinks,Cola
+262,262,FDG28,Frozen Foods,Frozen Pizza
+263,263,FDY38,Dairy,Milk
+264,264,FDN01,Breakfast,Oats
+265,265,NCR54,Household,Detergent
+266,266,FDG29,Frozen Foods,Frozen Pizza
+267,267,FDG24,Baking Goods,All-Purpose Flour
+268,268,FDG59,Starchy Foods,Rice
+269,269,FDM28,Frozen Foods,Frozen Pizza
+270,270,FDW04,Frozen Foods,Frozen Pizza
+271,271,FDS26,Dairy,Milk
+272,272,FDQ56,Fruits and Vegetables,Apples
+273,273,FDK51,Dairy,Milk
+274,274,FDL22,Snack Foods,Potato Chips
+276,276,FDY55,Fruits and Vegetables,Apples
+279,279,FDZ10,Snack Foods,Potato Chips
+280,280,FDZ32,Fruits and Vegetables,Apples
+282,282,NCF07,Household,Detergent
+283,283,DRE49,Soft Drinks,Cola
+284,284,FDJ08,Fruits and Vegetables,Apples
+285,285,FDT39,Meat,Chicken Breast
+286,286,FDE08,Fruits and Vegetables,Apples
+288,288,FDB57,Fruits and Vegetables,Apples
+289,289,NCT54,Household,Detergent
+291,291,FDM25,Breakfast,Oats
+292,292,FDF20,Fruits and Vegetables,Apples
+293,293,FDH27,Dairy,Milk
+294,294,FDV60,Baking Goods,All-Purpose Flour
+295,295,FDY59,Baking Goods,All-Purpose Flour
+296,296,FDK36,Baking Goods,All-Purpose Flour
+297,297,NCM31,Others,Miscellaneous Grocery Items
+298,298,FDE33,Fruits and Vegetables,Apples
+299,299,FDU36,Baking Goods,All-Purpose Flour
+300,300,FDV13,Canned,Canned Beans
+302,302,NCQ54,Household,Detergent
+305,305,DRP47,Hard Drinks,Whiskey
+306,306,FDB21,Fruits and Vegetables,Apples
+307,307,FDR04,Frozen Foods,Frozen Pizza
+308,308,FDX23,Baking Goods,All-Purpose Flour
+309,309,FDX19,Fruits and Vegetables,Apples
+310,310,FDD40,Dairy,Milk
+311,311,FDA01,Canned,Canned Beans
+312,312,FDS33,Snack Foods,Potato Chips
+313,313,FDM50,Canned,Canned Beans
+314,314,FDB29,Frozen Foods,Frozen Pizza
+315,315,FDF46,Snack Foods,Potato Chips
+316,316,FDA33,Snack Foods,Potato Chips
+317,317,FDC08,Fruits and Vegetables,Apples
+318,318,FDB53,Frozen Foods,Frozen Pizza
+319,319,FDY31,Fruits and Vegetables,Apples
+320,320,DRQ35,Hard Drinks,Whiskey
+321,321,FDX36,Baking Goods,All-Purpose Flour
+322,322,DRD13,Soft Drinks,Cola
+323,323,FDC52,Dairy,Milk
+324,324,FDB45,Fruits and Vegetables,Apples
+325,325,NCK19,Others,Miscellaneous Grocery Items
+326,326,FDV51,Meat,Chicken Breast
+327,327,FDZ35,Breads,Whole Wheat Bread
+328,328,NCW17,Health and Hygiene,Toothpaste
+329,329,FDV59,Breads,Whole Wheat Bread
+330,330,DRH39,Dairy,Milk
+331,331,FDN60,Baking Goods,All-Purpose Flour
+332,332,FDU55,Fruits and Vegetables,Apples
+333,333,FDN58,Snack Foods,Potato Chips
+334,334,FDC41,Frozen Foods,Frozen Pizza
+335,335,FDO01,Breakfast,Oats
+336,336,NCO43,Others,Miscellaneous Grocery Items
+337,337,FDQ07,Fruits and Vegetables,Apples
+338,338,FDF28,Frozen Foods,Frozen Pizza
+339,339,FDM01,Breakfast,Oats
+340,340,FDY49,Canned,Canned Beans
+341,341,FDR24,Baking Goods,All-Purpose Flour
+342,342,NCY18,Household,Detergent
+343,343,NCY30,Household,Detergent
+344,344,FDJ22,Snack Foods,Potato Chips
+345,345,DRI37,Soft Drinks,Cola
+346,346,FDL27,Meat,Chicken Breast
+347,347,NCO30,Household,Detergent
+348,348,NCB07,Household,Detergent
+350,350,FDP59,Breads,Whole Wheat Bread
+351,351,FDR59,Breads,Whole Wheat Bread
+352,352,FDT27,Meat,Chicken Breast
+353,353,DRI01,Soft Drinks,Cola
+354,354,FDU09,Snack Foods,Potato Chips
+355,355,FDH26,Canned,Canned Beans
+357,357,FDN39,Meat,Chicken Breast
+358,358,FDH40,Frozen Foods,Frozen Pizza
+359,359,FDJ56,Fruits and Vegetables,Apples
+360,360,DRN47,Hard Drinks,Whiskey
+362,362,FDX60,Baking Goods,All-Purpose Flour
+363,363,FDT22,Snack Foods,Potato Chips
+364,364,FDX26,Dairy,Milk
+365,365,FDG45,Fruits and Vegetables,Apples
+366,366,FDD44,Fruits and Vegetables,Apples
+367,367,FDS15,Meat,Chicken Breast
+368,368,FDL51,Dairy,Milk
+369,369,FDL32,Fruits and Vegetables,Apples
+370,370,FDZ07,Fruits and Vegetables,Apples
+371,371,NCW53,Health and Hygiene,Toothpaste
+372,372,NCA54,Household,Detergent
+373,373,FDX09,Snack Foods,Potato Chips
+374,374,FDO51,Meat,Chicken Breast
+375,375,FDW49,Canned,Canned Beans
+376,376,FDB27,Dairy,Milk
+377,377,FDF45,Fruits and Vegetables,Apples
+378,378,FDV02,Dairy,Milk
+379,379,FDY28,Frozen Foods,Frozen Pizza
+380,380,FDX31,Fruits and Vegetables,Apples
+381,381,FDR43,Fruits and Vegetables,Apples
+382,382,FDP51,Meat,Chicken Breast
+383,383,FDL52,Frozen Foods,Frozen Pizza
+386,386,FDC50,Canned,Canned Beans
+387,387,FDT57,Snack Foods,Potato Chips
+388,388,FDP22,Snack Foods,Potato Chips
+391,391,FDY32,Fruits and Vegetables,Apples
+392,392,FDW07,Fruits and Vegetables,Apples
+394,394,NCF18,Household,Detergent
+397,397,FDG35,Starchy Foods,Rice
+398,398,FDY34,Snack Foods,Potato Chips
+399,399,NCE19,Household,Detergent
+400,400,NCK31,Others,Miscellaneous Grocery Items
+401,401,NCJ29,Health and Hygiene,Toothpaste
+402,402,FDT59,Breads,Whole Wheat Bread
+403,403,NCX41,Health and Hygiene,Toothpaste
+404,404,FDU45,Snack Foods,Potato Chips
+405,405,FDW24,Baking Goods,All-Purpose Flour
+406,406,FDF22,Snack Foods,Potato Chips
+407,407,FDM60,Baking Goods,All-Purpose Flour
+408,408,FDR02,Dairy,Milk
+409,409,DRP35,Hard Drinks,Whiskey
+410,410,FDS48,Baking Goods,All-Purpose Flour
+411,411,NCZ42,Household,Detergent
+412,412,FDZ38,Dairy,Milk
+414,414,NCB55,Household,Detergent
+415,415,FDC15,Dairy,Milk
+416,416,FDF11,Starchy Foods,Rice
+417,417,FDW35,Breads,Whole Wheat Bread
+418,418,FDB44,Fruits and Vegetables,Apples
+419,419,NCC06,Household,Detergent
+421,421,FDB17,Frozen Foods,Frozen Pizza
+422,422,FDW43,Fruits and Vegetables,Apples
+423,423,FDA27,Dairy,Milk
+427,427,FDN32,Fruits and Vegetables,Apples
+429,429,FDZ27,Dairy,Milk
+430,430,FDW23,Baking Goods,All-Purpose Flour
+431,431,FDU01,Canned,Canned Beans
+432,432,FDF10,Snack Foods,Potato Chips
+433,433,DRH03,Dairy,Milk
+434,434,FDW27,Meat,Chicken Breast
+435,435,DRI13,Soft Drinks,Cola
+436,436,NCR05,Health and Hygiene,Toothpaste
+440,440,FDI35,Starchy Foods,Rice
+441,441,FDX08,Fruits and Vegetables,Apples
+443,443,NCJ18,Household,Detergent
+444,444,FDJ41,Frozen Foods,Frozen Pizza
+445,445,FDU08,Fruits and Vegetables,Apples
+446,446,FDS09,Snack Foods,Potato Chips
+447,447,DRH15,Dairy,Milk
+448,448,NCV17,Health and Hygiene,Toothpaste
+449,449,NCO54,Household,Detergent
+450,450,FDE24,Baking Goods,All-Purpose Flour
+451,451,FDH53,Frozen Foods,Frozen Pizza
+452,452,FDZ13,Canned,Canned Beans
+453,453,FDW28,Frozen Foods,Frozen Pizza
+454,454,FDU46,Snack Foods,Potato Chips
+455,455,NCE43,Household,Detergent
+459,459,NCC42,Health and Hygiene,Toothpaste
+460,460,FDQ20,Fruits and Vegetables,Apples
+461,461,FDA13,Canned,Canned Beans
+462,462,FDZ15,Dairy,Milk
+463,463,NCV42,Household,Detergent
+464,464,DRI51,Dairy,Milk
+465,465,FDO28,Frozen Foods,Frozen Pizza
+466,466,NCS54,Household,Detergent
+467,467,FDH16,Frozen Foods,Frozen Pizza
+469,469,FDR52,Frozen Foods,Frozen Pizza
+470,470,NCH06,Household,Detergent
+471,471,FDA36,Baking Goods,All-Purpose Flour
+472,472,FDU56,Fruits and Vegetables,Apples
+473,473,FDT09,Snack Foods,Potato Chips
+474,474,FDU25,Canned,Canned Beans
+475,475,FDK41,Frozen Foods,Frozen Pizza
+478,478,FDM24,Baking Goods,All-Purpose Flour
+480,480,FDQ45,Snack Foods,Potato Chips
+481,481,DRK59,Hard Drinks,Whiskey
+484,484,FDR21,Snack Foods,Potato Chips
+486,486,FDT44,Fruits and Vegetables,Apples
+487,487,FDX14,Dairy,Milk
+488,488,FDH57,Fruits and Vegetables,Apples
+490,490,NCT41,Health and Hygiene,Toothpaste
+491,491,FDO11,Breads,Whole Wheat Bread
+492,492,NCP42,Household,Detergent
+493,493,FDN09,Snack Foods,Potato Chips
+494,494,FDP32,Fruits and Vegetables,Apples
+495,495,FDV57,Snack Foods,Potato Chips
+497,497,FDR56,Fruits and Vegetables,Apples
+498,498,FDA40,Frozen Foods,Frozen Pizza
+499,499,NCG42,Household,Detergent
+500,500,NCK54,Household,Detergent
+501,501,FDE16,Frozen Foods,Frozen Pizza
+502,502,FDB15,Dairy,Milk
+503,503,FDC40,Dairy,Milk
+504,504,FDE53,Frozen Foods,Frozen Pizza
+505,505,FDK24,Baking Goods,All-Purpose Flour
+506,506,FDW31,Fruits and Vegetables,Apples
+508,508,NCM07,Others,Miscellaneous Grocery Items
+509,509,DRN36,Soft Drinks,Cola
+510,510,FDQ37,Breakfast,Oats
+512,512,FDK28,Frozen Foods,Frozen Pizza
+514,514,FDL48,Baking Goods,All-Purpose Flour
+515,515,DRL23,Hard Drinks,Whiskey
+517,517,DRD37,Soft Drinks,Cola
+518,518,FDZ47,Baking Goods,All-Purpose Flour
+519,519,NCJ54,Household,Detergent
+523,523,FDD08,Fruits and Vegetables,Apples
+524,524,NCN18,Household,Detergent
+526,526,NCI29,Health and Hygiene,Toothpaste
+527,527,NCE06,Household,Detergent
+529,529,FDU52,Frozen Foods,Frozen Pizza
+530,530,FDN16,Frozen Foods,Frozen Pizza
+531,531,NCM55,Others,Miscellaneous Grocery Items
+532,532,FDR49,Canned,Canned Beans
+536,536,FDA16,Frozen Foods,Frozen Pizza
+537,537,FDO19,Fruits and Vegetables,Apples
+538,538,FDO04,Frozen Foods,Frozen Pizza
+539,539,NCL19,Others,Miscellaneous Grocery Items
+541,541,FDR60,Baking Goods,All-Purpose Flour
+542,542,FDV37,Canned,Canned Beans
+543,543,FDG53,Frozen Foods,Frozen Pizza
+544,544,DRG01,Soft Drinks,Cola
+545,545,FDB38,Canned,Canned Beans
+546,546,FDI27,Dairy,Milk
+547,547,FDD29,Frozen Foods,Frozen Pizza
+548,548,NCR41,Health and Hygiene,Toothpaste
+549,549,FDW44,Fruits and Vegetables,Apples
+550,550,FDU21,Snack Foods,Potato Chips
+551,551,FDI14,Canned,Canned Beans
+552,552,FDW50,Dairy,Milk
+554,554,FDT31,Fruits and Vegetables,Apples
+555,555,FDJ14,Canned,Canned Beans
+556,556,NCQ43,Others,Miscellaneous Grocery Items
+557,557,FDZ22,Snack Foods,Potato Chips
+558,558,FDU38,Dairy,Milk
+559,559,FDS32,Fruits and Vegetables,Apples
+560,560,DRH13,Soft Drinks,Cola
+561,561,DRF03,Dairy,Milk
+562,562,FDJ20,Fruits and Vegetables,Apples
+563,563,FDE22,Snack Foods,Potato Chips
+564,564,FDX22,Snack Foods,Potato Chips
+565,565,DRM11,Hard Drinks,Whiskey
+567,567,FDL25,Breakfast,Oats
+569,569,FDT08,Fruits and Vegetables,Apples
+570,570,FDO22,Snack Foods,Potato Chips
+571,571,NCM41,Health and Hygiene,Toothpaste
+572,572,FDJ21,Snack Foods,Potato Chips
+573,573,FDC53,Frozen Foods,Frozen Pizza
+575,575,FDQ09,Snack Foods,Potato Chips
+577,577,DRE25,Soft Drinks,Cola
+578,578,FDL08,Fruits and Vegetables,Apples
+580,580,FDW03,Meat,Chicken Breast
+582,582,FDC17,Frozen Foods,Frozen Pizza
+584,584,FDE34,Snack Foods,Potato Chips
+588,588,FDO44,Fruits and Vegetables,Apples
+590,590,NCF31,Household,Detergent
+591,591,FDG14,Canned,Canned Beans
+592,592,NCH30,Household,Detergent
+593,593,FDR36,Baking Goods,All-Purpose Flour
+594,594,NCJ30,Household,Detergent
+595,595,FDR08,Fruits and Vegetables,Apples
+597,597,NCQ50,Household,Detergent
+598,598,FDL46,Snack Foods,Potato Chips
+599,599,DRK37,Soft Drinks,Cola
+600,600,FDK48,Baking Goods,All-Purpose Flour
+601,601,FDV58,Snack Foods,Potato Chips
+603,603,FDZ52,Frozen Foods,Frozen Pizza
+604,604,NCF42,Household,Detergent
+605,605,FDQ48,Baking Goods,All-Purpose Flour
+607,607,FDR58,Snack Foods,Potato Chips
+608,608,NCE07,Household,Detergent
+609,609,FDK14,Canned,Canned Beans
+610,610,FDC11,Starchy Foods,Rice
+612,612,NCQ41,Health and Hygiene,Toothpaste
+613,613,FDX46,Snack Foods,Potato Chips
+614,614,FDC35,Starchy Foods,Rice
+615,615,FDH45,Fruits and Vegetables,Apples
+616,616,FDX33,Snack Foods,Potato Chips
+617,617,DRJ35,Hard Drinks,Whiskey
+620,620,FDP13,Canned,Canned Beans
+621,621,FDP24,Baking Goods,All-Purpose Flour
+622,622,NCQ42,Household,Detergent
+624,624,FDU14,Dairy,Milk
+626,626,FDT32,Fruits and Vegetables,Apples
+627,627,FDK20,Fruits and Vegetables,Apples
+632,632,FDU13,Canned,Canned Beans
+633,633,FDE05,Frozen Foods,Frozen Pizza
+634,634,FDE58,Snack Foods,Potato Chips
+636,636,FDZ01,Canned,Canned Beans
+637,637,FDM08,Fruits and Vegetables,Apples
+638,638,FDS58,Snack Foods,Potato Chips
+639,639,FDZ26,Dairy,Milk
+641,641,FDY51,Meat,Chicken Breast
+642,642,FDL34,Snack Foods,Potato Chips
+643,643,DRG39,Dairy,Milk
+644,644,NCG43,Household,Detergent
+645,645,FDT01,Canned,Canned Beans
+647,647,DRF01,Soft Drinks,Cola
+648,648,FDF53,Frozen Foods,Frozen Pizza
+650,650,FDR20,Fruits and Vegetables,Apples
+652,652,FDD38,Canned,Canned Beans
+654,654,FDH32,Fruits and Vegetables,Apples
+655,655,NCJ42,Household,Detergent
+659,659,FDW22,Snack Foods,Potato Chips
+660,660,FDE32,Fruits and Vegetables,Apples
+661,661,FDA34,Starchy Foods,Rice
+663,663,FDG38,Canned,Canned Beans
+665,665,NCE31,Household,Detergent
+666,666,FDS19,Fruits and Vegetables,Apples
+667,667,FDU11,Breads,Whole Wheat Bread
+668,668,FDL02,Canned,Canned Beans
+670,670,DRK23,Hard Drinks,Whiskey
+671,671,FDO27,Meat,Chicken Breast
+672,672,FDB16,Dairy,Milk
+674,674,NCB18,Household,Detergent
+675,675,NCL53,Health and Hygiene,Toothpaste
+676,676,FDR16,Frozen Foods,Frozen Pizza
+677,677,NCQ05,Health and Hygiene,Toothpaste
+678,678,FDF44,Fruits and Vegetables,Apples
+683,683,FDK15,Meat,Chicken Breast
+685,685,FDS10,Snack Foods,Potato Chips
+687,687,FDU32,Fruits and Vegetables,Apples
+688,688,FDG09,Fruits and Vegetables,Apples
+689,689,FDE39,Dairy,Milk
+691,691,NCH55,Household,Detergent
+694,694,FDC33,Fruits and Vegetables,Apples
+695,695,NCV54,Household,Detergent
+696,696,NCQ02,Household,Detergent
+697,697,NCU17,Health and Hygiene,Toothpaste
+698,698,NCZ06,Household,Detergent
+700,700,DRH25,Soft Drinks,Cola
+701,701,NCI43,Household,Detergent
+702,702,NCQ53,Health and Hygiene,Toothpaste
+703,703,NCT18,Household,Detergent
+705,705,FDM14,Canned,Canned Beans
+706,706,FDX57,Snack Foods,Potato Chips
+707,707,NCV05,Health and Hygiene,Toothpaste
+708,708,FDX39,Meat,Chicken Breast
+709,709,FDA23,Baking Goods,All-Purpose Flour
+710,710,NCV06,Household,Detergent
+712,712,DRI39,Dairy,Milk
+713,713,FDH21,Seafood,Salmon
+714,714,FDR26,Dairy,Milk
+715,715,FDA14,Dairy,Milk
+716,716,FDG21,Seafood,Salmon
+717,717,NCQ38,Others,Miscellaneous Grocery Items
+718,718,FDN20,Fruits and Vegetables,Apples
+719,719,NCN29,Health and Hygiene,Toothpaste
+720,720,FDI28,Frozen Foods,Frozen Pizza
+722,722,FDZ28,Frozen Foods,Frozen Pizza
+723,723,FDO52,Frozen Foods,Frozen Pizza
+724,724,FDU10,Snack Foods,Potato Chips
+727,727,FDS28,Frozen Foods,Frozen Pizza
+730,730,FDJ03,Dairy,Milk
+731,731,FDQ51,Meat,Chicken Breast
+734,734,NCK06,Household,Detergent
+735,735,FDY09,Snack Foods,Potato Chips
+737,737,FDA10,Snack Foods,Potato Chips
+738,738,FDO34,Snack Foods,Potato Chips
+739,739,FDE38,Canned,Canned Beans
+740,740,FDF40,Dairy,Milk
+741,741,FDY02,Dairy,Milk
+742,742,FDS03,Meat,Chicken Breast
+743,743,FDB59,Snack Foods,Potato Chips
+745,745,FDO15,Meat,Chicken Breast
+752,752,FDV56,Fruits and Vegetables,Apples
+753,753,FDY26,Dairy,Milk
+754,754,DRE13,Soft Drinks,Cola
+757,757,FDD50,Canned,Canned Beans
+758,758,FDC04,Dairy,Milk
+763,763,NCR29,Health and Hygiene,Toothpaste
+766,766,FDZ04,Frozen Foods,Frozen Pizza
+767,767,FDU16,Frozen Foods,Frozen Pizza
+768,768,FDV07,Fruits and Vegetables,Apples
+770,770,FDW01,Canned,Canned Beans
+771,771,FDC10,Snack Foods,Potato Chips
+772,772,DRC12,Soft Drinks,Cola
+773,773,DRK39,Dairy,Milk
+776,776,DRB25,Soft Drinks,Cola
+777,777,FDK26,Canned,Canned Beans
+778,778,FDM52,Frozen Foods,Frozen Pizza
+780,780,NCO06,Household,Detergent
+782,782,FDK34,Snack Foods,Potato Chips
+784,784,FDO45,Snack Foods,Potato Chips
+785,785,FDF08,Fruits and Vegetables,Apples
+786,786,FDH58,Snack Foods,Potato Chips
+789,789,FDE02,Canned,Canned Beans
+792,792,FDR23,Breads,Whole Wheat Bread
+794,794,FDY35,Breads,Whole Wheat Bread
+797,797,FDG44,Fruits and Vegetables,Apples
+798,798,FDQ23,Breads,Whole Wheat Bread
+799,799,FDY22,Snack Foods,Potato Chips
+800,800,NCN41,Health and Hygiene,Toothpaste
+803,803,FDO36,Baking Goods,All-Purpose Flour
+804,804,FDH20,Fruits and Vegetables,Apples
+805,805,FDN12,Baking Goods,All-Purpose Flour
+807,807,FDB09,Fruits and Vegetables,Apples
+808,808,FDA09,Snack Foods,Potato Chips
+809,809,FDL24,Baking Goods,All-Purpose Flour
+810,810,FDP03,Meat,Chicken Breast
+812,812,FDO13,Breakfast,Oats
+813,813,DRD49,Soft Drinks,Cola
+817,817,FDQ15,Meat,Chicken Breast
+818,818,NCP50,Others,Miscellaneous Grocery Items
+821,821,FDN23,Breads,Whole Wheat Bread
+822,822,FDS44,Fruits and Vegetables,Apples
+823,823,NCI54,Household,Detergent
+826,826,FDA21,Snack Foods,Potato Chips
+827,827,FDI41,Frozen Foods,Frozen Pizza
+828,828,FDE35,Starchy Foods,Rice
+829,829,DRJ24,Soft Drinks,Cola
+830,830,NCK17,Health and Hygiene,Toothpaste
+832,832,FDD36,Baking Goods,All-Purpose Flour
+833,833,DRD60,Soft Drinks,Cola
+837,837,NCM19,Others,Miscellaneous Grocery Items
+839,839,FDV12,Baking Goods,All-Purpose Flour
+840,840,FDQ31,Fruits and Vegetables,Apples
+841,841,FDK55,Meat,Chicken Breast
+842,842,DRG15,Dairy,Milk
+844,844,FDV01,Canned,Canned Beans
+845,845,FDT21,Snack Foods,Potato Chips
+846,846,FDT10,Snack Foods,Potato Chips
+852,852,FDN02,Canned,Canned Beans
+853,853,FDJ40,Frozen Foods,Frozen Pizza
+855,855,DRE27,Dairy,Milk
+856,856,FDS27,Meat,Chicken Breast
+858,858,DRM59,Hard Drinks,Whiskey
+861,861,NCV30,Household,Detergent
+863,863,FDA51,Dairy,Milk
+864,864,FDM46,Snack Foods,Potato Chips
+865,865,FDK02,Canned,Canned Beans
+866,866,FDJ57,Seafood,Salmon
+867,867,FDJ45,Seafood,Salmon
+868,868,NCB31,Household,Detergent
+870,870,FDT50,Dairy,Milk
+871,871,NCY41,Health and Hygiene,Toothpaste
+872,872,FDJ60,Baking Goods,All-Purpose Flour
+874,874,FDS21,Snack Foods,Potato Chips
+876,876,FDQ08,Fruits and Vegetables,Apples
+878,878,FDS47,Breads,Whole Wheat Bread
+879,879,DRM48,Soft Drinks,Cola
+880,880,FDW46,Snack Foods,Potato Chips
+883,883,FDU40,Frozen Foods,Frozen Pizza
+884,884,DRE12,Soft Drinks,Cola
+885,885,FDX35,Breads,Whole Wheat Bread
+886,886,FDD51,Dairy,Milk
+887,887,FDY27,Dairy,Milk
+888,888,NCN06,Household,Detergent
+889,889,FDR57,Snack Foods,Potato Chips
+893,893,FDR19,Fruits and Vegetables,Apples
+894,894,FDJ33,Snack Foods,Potato Chips
+896,896,FDA52,Frozen Foods,Frozen Pizza
+897,897,FDZ08,Fruits and Vegetables,Apples
+898,898,FDR27,Meat,Chicken Breast
+899,899,NCK42,Household,Detergent
+900,900,FDZ12,Baking Goods,All-Purpose Flour
+902,902,NCI31,Others,Miscellaneous Grocery Items
+905,905,FDX16,Frozen Foods,Frozen Pizza
+907,907,NCA05,Health and Hygiene,Toothpaste
+908,908,DRG51,Dairy,Milk
+909,909,NCR30,Household,Detergent
+911,911,FDM56,Fruits and Vegetables,Apples
+913,913,DRM37,Soft Drinks,Cola
+914,914,FDN56,Fruits and Vegetables,Apples
+920,920,FDO49,Breakfast,Oats
+921,921,FDC09,Fruits and Vegetables,Apples
+922,922,NCZ41,Health and Hygiene,Toothpaste
+923,923,FDP19,Fruits and Vegetables,Apples
+924,924,FDQ24,Baking Goods,All-Purpose Flour
+925,925,DRL11,Hard Drinks,Whiskey
+927,927,FDN52,Frozen Foods,Frozen Pizza
+928,928,FDF21,Fruits and Vegetables,Apples
+930,930,FDS51,Meat,Chicken Breast
+931,931,FDE45,Fruits and Vegetables,Apples
+932,932,FDX50,Dairy,Milk
+933,933,NCN14,Others,Miscellaneous Grocery Items
+934,934,FDQ21,Snack Foods,Potato Chips
+938,938,FDL38,Canned,Canned Beans
+940,940,DRL37,Soft Drinks,Cola
+942,942,FDZ39,Meat,Chicken Breast
+944,944,FDH10,Snack Foods,Potato Chips
+946,946,FDS35,Breads,Whole Wheat Bread
+948,948,FDN21,Snack Foods,Potato Chips
+949,949,NCO18,Household,Detergent
+951,951,FDD05,Frozen Foods,Frozen Pizza
+952,952,FDX59,Breads,Whole Wheat Bread
+953,953,FDZ23,Baking Goods,All-Purpose Flour
+954,954,FDX27,Dairy,Milk
+956,956,FDR14,Dairy,Milk
+961,961,FDZ56,Fruits and Vegetables,Apples
+962,962,NCL55,Others,Miscellaneous Grocery Items
+963,963,FDD59,Starchy Foods,Rice
+966,966,DRF23,Hard Drinks,Whiskey
+967,967,FDT49,Canned,Canned Beans
+969,969,FDH22,Snack Foods,Potato Chips
+970,970,FDT34,Snack Foods,Potato Chips
+971,971,FDB39,Dairy,Milk
+972,972,FDQ22,Snack Foods,Potato Chips
+973,973,NCN43,Others,Miscellaneous Grocery Items
+974,974,FDG57,Fruits and Vegetables,Apples
+976,976,FDU22,Snack Foods,Potato Chips
+977,977,NCC43,Household,Detergent
+978,978,FDP01,Breakfast,Oats
+979,979,FDF52,Frozen Foods,Frozen Pizza
+980,980,FDZ33,Snack Foods,Potato Chips
+981,981,FDP48,Baking Goods,All-Purpose Flour
+982,982,FDW56,Fruits and Vegetables,Apples
+983,983,FDC26,Canned,Canned Beans
+984,984,FDF34,Snack Foods,Potato Chips
+986,986,FDD04,Dairy,Milk
+987,987,NCJ31,Others,Miscellaneous Grocery Items
+988,988,FDO57,Snack Foods,Potato Chips
+989,989,FDM36,Baking Goods,All-Purpose Flour
+990,990,NCY05,Health and Hygiene,Toothpaste
+994,994,DRK11,Hard Drinks,Whiskey
+996,996,NCL30,Household,Detergent
+998,998,DRJ39,Dairy,Milk
+999,999,NCP06,Household,Detergent
+1001,1001,FDZ44,Fruits and Vegetables,Apples
+1002,1002,FDV46,Snack Foods,Potato Chips
+1004,1004,DRG03,Dairy,Milk
+1005,1005,FDU37,Canned,Canned Beans
+1006,1006,FDI57,Seafood,Salmon
+1007,1007,FDM45,Snack Foods,Potato Chips
+1010,1010,FDB26,Canned,Canned Beans
+1016,1016,FDZ25,Canned,Canned Beans
+1017,1017,NCN26,Household,Detergent
+1018,1018,FDO38,Canned,Canned Beans
+1020,1020,FDG31,Meat,Chicken Breast
+1021,1021,FDI45,Fruits and Vegetables,Apples
+1023,1023,FDE17,Frozen Foods,Frozen Pizza
+1024,1024,NCG06,Household,Detergent
+1025,1025,FDQ57,Snack Foods,Potato Chips
+1027,1027,NCP29,Health and Hygiene,Toothpaste
+1030,1030,FDM02,Canned,Canned Beans
+1032,1032,FDR46,Snack Foods,Potato Chips
+1033,1033,FDE50,Canned,Canned Beans
+1037,1037,FDS16,Frozen Foods,Frozen Pizza
+1038,1038,FDU15,Meat,Chicken Breast
+1044,1044,FDO09,Snack Foods,Potato Chips
+1045,1045,FDB40,Dairy,Milk
+1047,1047,DRN11,Hard Drinks,Whiskey
+1049,1049,FDF04,Frozen Foods,Frozen Pizza
+1050,1050,FDE41,Frozen Foods,Frozen Pizza
+1051,1051,FDW08,Fruits and Vegetables,Apples
+1052,1052,NCD54,Household,Detergent
+1055,1055,FDN34,Snack Foods,Potato Chips
+1056,1056,FDL39,Dairy,Milk
+1058,1058,FDH33,Snack Foods,Potato Chips
+1061,1061,DRH23,Hard Drinks,Whiskey
+1066,1066,FDD21,Fruits and Vegetables,Apples
+1074,1074,FDK60,Baking Goods,All-Purpose Flour
+1075,1075,FDY12,Baking Goods,All-Purpose Flour
+1077,1077,FDP11,Breads,Whole Wheat Bread
+1078,1078,FDC21,Fruits and Vegetables,Apples
+1079,1079,NCF54,Household,Detergent
+1081,1081,FDV43,Fruits and Vegetables,Apples
+1084,1084,DRC36,Soft Drinks,Cola
+1086,1086,NCW42,Household,Detergent
+1088,1088,FDL13,Breakfast,Oats
+1091,1091,FDV22,Snack Foods,Potato Chips
+1092,1092,NCB43,Household,Detergent
+1093,1093,FDQ46,Snack Foods,Potato Chips
+1094,1094,FDC44,Fruits and Vegetables,Apples
+1095,1095,FDB22,Snack Foods,Potato Chips
+1096,1096,FDV23,Breads,Whole Wheat Bread
+1097,1097,FDK10,Snack Foods,Potato Chips
+1099,1099,FDL33,Snack Foods,Potato Chips
+1100,1100,FDD20,Fruits and Vegetables,Apples
+1101,1101,NCM54,Household,Detergent
+1102,1102,FDW48,Baking Goods,All-Purpose Flour
+1104,1104,NCM06,Household,Detergent
+1106,1106,FDT46,Snack Foods,Potato Chips
+1108,1108,FDT38,Dairy,Milk
+1110,1110,FDO40,Frozen Foods,Frozen Pizza
+1111,1111,FDP12,Baking Goods,All-Purpose Flour
+1112,1112,FDI44,Fruits and Vegetables,Apples
+1114,1114,FDG16,Frozen Foods,Frozen Pizza
+1121,1121,FDY11,Baking Goods,All-Purpose Flour
+1125,1125,FDY60,Baking Goods,All-Purpose Flour
+1127,1127,NCM05,Health and Hygiene,Toothpaste
+1129,1129,FDA49,Canned,Canned Beans
+1130,1130,FDY52,Frozen Foods,Frozen Pizza
+1134,1134,FDJ02,Canned,Canned Beans
+1135,1135,FDW40,Frozen Foods,Frozen Pizza
+1137,1137,FDY08,Fruits and Vegetables,Apples
+1138,1138,FDM21,Snack Foods,Potato Chips
+1140,1140,NCM42,Household,Detergent
+1143,1143,NCD07,Household,Detergent
+1145,1145,FDD09,Fruits and Vegetables,Apples
+1146,1146,DRH59,Hard Drinks,Whiskey
+1148,1148,DRA24,Soft Drinks,Cola
+1149,1149,FDY36,Baking Goods,All-Purpose Flour
+1150,1150,FDG34,Snack Foods,Potato Chips
+1153,1153,FDK22,Snack Foods,Potato Chips
+1155,1155,FDO33,Snack Foods,Potato Chips
+1159,1159,FDD46,Snack Foods,Potato Chips
+1162,1162,FDU34,Snack Foods,Potato Chips
+1164,1164,FDA26,Dairy,Milk
+1165,1165,FDP38,Canned,Canned Beans
+1167,1167,FDA50,Dairy,Milk
+1168,1168,FDY10,Snack Foods,Potato Chips
+1170,1170,FDT19,Fruits and Vegetables,Apples
+1174,1174,FDA28,Frozen Foods,Frozen Pizza
+1175,1175,FDB05,Frozen Foods,Frozen Pizza
+1176,1176,FDK45,Seafood,Salmon
+1179,1179,FDR48,Baking Goods,All-Purpose Flour
+1180,1180,FDY15,Dairy,Milk
+1181,1181,FDM51,Meat,Chicken Breast
+1183,1183,FDW09,Snack Foods,Potato Chips
+1184,1184,FDV44,Fruits and Vegetables,Apples
+1187,1187,NCP43,Others,Miscellaneous Grocery Items
+1188,1188,FDL26,Canned,Canned Beans
+1189,1189,DRM35,Hard Drinks,Whiskey
+1191,1191,DRD15,Dairy,Milk
+1193,1193,FDV04,Frozen Foods,Frozen Pizza
+1194,1194,FDG46,Snack Foods,Potato Chips
+1196,1196,NCN05,Health and Hygiene,Toothpaste
+1200,1200,FDO58,Snack Foods,Potato Chips
+1204,1204,DRH49,Soft Drinks,Cola
+1208,1208,NCZ05,Health and Hygiene,Toothpaste
+1210,1210,NCP54,Household,Detergent
+1217,1217,FDF57,Fruits and Vegetables,Apples
+1219,1219,FDA02,Dairy,Milk
+1220,1220,DRJ37,Soft Drinks,Cola
+1221,1221,NCP55,Others,Miscellaneous Grocery Items
+1222,1222,FDW45,Snack Foods,Potato Chips
+1223,1223,FDK38,Canned,Canned Beans
+1224,1224,NCZ30,Household,Detergent
+1225,1225,FDK08,Fruits and Vegetables,Apples
+1229,1229,NCG19,Household,Detergent
+1232,1232,FDQ01,Canned,Canned Beans
+1235,1235,FDL44,Fruits and Vegetables,Apples
+1237,1237,DRM23,Hard Drinks,Whiskey
+1239,1239,NCE18,Household,Detergent
+1241,1241,DRZ24,Soft Drinks,Cola
+1242,1242,FDT48,Baking Goods,All-Purpose Flour
+1243,1243,DRG11,Hard Drinks,Whiskey
+1246,1246,FDP60,Baking Goods,All-Purpose Flour
+1249,1249,FDC32,Fruits and Vegetables,Apples
+1251,1251,NCH18,Household,Detergent
+1252,1252,DRE37,Soft Drinks,Cola
+1253,1253,DRC13,Soft Drinks,Cola
+1254,1254,FDG47,Starchy Foods,Rice
+1257,1257,NCT05,Health and Hygiene,Toothpaste
+1258,1258,FDN50,Canned,Canned Beans
+1259,1259,FDU60,Baking Goods,All-Purpose Flour
+1260,1260,FDX02,Dairy,Milk
+1265,1265,NCO41,Health and Hygiene,Toothpaste
+1266,1266,FDQ59,Breads,Whole Wheat Bread
+1267,1267,NCZ53,Health and Hygiene,Toothpaste
+1269,1269,FDD34,Snack Foods,Potato Chips
+1271,1271,FDY43,Fruits and Vegetables,Apples
+1278,1278,FDN44,Fruits and Vegetables,Apples
+1279,1279,FDD32,Fruits and Vegetables,Apples
+1281,1281,FDA56,Fruits and Vegetables,Apples
+1284,1284,FDT13,Canned,Canned Beans
+1287,1287,NCY29,Health and Hygiene,Toothpaste
+1292,1292,NCA42,Household,Detergent
+1294,1294,FDG26,Canned,Canned Beans
+1295,1295,FDH24,Baking Goods,All-Purpose Flour
+1297,1297,FDT52,Frozen Foods,Frozen Pizza
+1298,1298,FDT04,Frozen Foods,Frozen Pizza
+1301,1301,NCL54,Household,Detergent
+1304,1304,FDQ32,Fruits and Vegetables,Apples
+1305,1305,FDE29,Frozen Foods,Frozen Pizza
+1307,1307,FDB37,Baking Goods,All-Purpose Flour
+1310,1310,FDN46,Snack Foods,Potato Chips
+1311,1311,FDV28,Frozen Foods,Frozen Pizza
+1313,1313,FDW37,Canned,Canned Beans
+1314,1314,FDV40,Frozen Foods,Frozen Pizza
+1315,1315,FDZ57,Snack Foods,Potato Chips
+1316,1316,FDY46,Snack Foods,Potato Chips
+1317,1317,FDX45,Snack Foods,Potato Chips
+1318,1318,FDB33,Fruits and Vegetables,Apples
+1319,1319,FDT58,Snack Foods,Potato Chips
+1322,1322,NCL31,Others,Miscellaneous Grocery Items
+1327,1327,FDJ44,Fruits and Vegetables,Apples
+1328,1328,FDS50,Dairy,Milk
+1335,1335,FDO50,Canned,Canned Beans
+1338,1338,FDU20,Fruits and Vegetables,Apples
+1339,1339,DRK13,Soft Drinks,Cola
+1341,1341,FDI20,Fruits and Vegetables,Apples
+1348,1348,FDG17,Frozen Foods,Frozen Pizza
+1350,1350,NCK29,Health and Hygiene,Toothpaste
+1351,1351,FDM32,Fruits and Vegetables,Apples
+1353,1353,FDC51,Dairy,Milk
+1354,1354,FDF16,Frozen Foods,Frozen Pizza
+1358,1358,FDI46,Snack Foods,Potato Chips
+1359,1359,FDZ21,Snack Foods,Potato Chips
+1363,1363,FDR32,Fruits and Vegetables,Apples
+1364,1364,DRF25,Soft Drinks,Cola
+1367,1367,FDH05,Frozen Foods,Frozen Pizza
+1371,1371,FDD52,Dairy,Milk
+1372,1372,FDR55,Fruits and Vegetables,Apples
+1375,1375,FDP04,Frozen Foods,Frozen Pizza
+1378,1378,FDQ14,Dairy,Milk
+1381,1381,DRN59,Hard Drinks,Whiskey
+1382,1382,NCR06,Household,Detergent
+1385,1385,FDB58,Snack Foods,Potato Chips
+1387,1387,NCV41,Health and Hygiene,Toothpaste
+1388,1388,FDW19,Fruits and Vegetables,Apples
+1389,1389,FDO56,Fruits and Vegetables,Apples
+1391,1391,FDN10,Snack Foods,Potato Chips
+1392,1392,FDY20,Fruits and Vegetables,Apples
+1394,1394,FDV34,Snack Foods,Potato Chips
+1395,1395,NCX18,Household,Detergent
+1397,1397,NCZ17,Health and Hygiene,Toothpaste
+1399,1399,FDD57,Fruits and Vegetables,Apples
+1403,1403,FDZ48,Baking Goods,All-Purpose Flour
+1405,1405,FDZ31,Fruits and Vegetables,Apples
+1409,1409,FDA04,Frozen Foods,Frozen Pizza
+1410,1410,FDL21,Snack Foods,Potato Chips
+1414,1414,DRG49,Soft Drinks,Cola
+1416,1416,FDR51,Meat,Chicken Breast
+1418,1418,FDC39,Dairy,Milk
+1419,1419,FDP45,Snack Foods,Potato Chips
+1420,1420,FDC56,Fruits and Vegetables,Apples
+1425,1425,FDE59,Starchy Foods,Rice
+1426,1426,FDB04,Dairy,Milk
+1427,1427,NCK05,Health and Hygiene,Toothpaste
+1428,1428,FDR03,Meat,Chicken Breast
+1429,1429,FDQ03,Meat,Chicken Breast
+1430,1430,FDC59,Starchy Foods,Rice
+1431,1431,DRB13,Soft Drinks,Cola
+1432,1432,NCE54,Household,Detergent
+1436,1436,FDP23,Breads,Whole Wheat Bread
+1440,1440,NCL29,Health and Hygiene,Toothpaste
+1442,1442,FDM57,Snack Foods,Potato Chips
+1443,1443,FDZ36,Baking Goods,All-Purpose Flour
+1448,1448,FDO46,Snack Foods,Potato Chips
+1449,1449,FDD16,Frozen Foods,Frozen Pizza
+1450,1450,FDZ20,Fruits and Vegetables,Apples
+1453,1453,FDY44,Fruits and Vegetables,Apples
+1454,1454,FDW38,Dairy,Milk
+1455,1455,FDY33,Snack Foods,Potato Chips
+1456,1456,DRH51,Dairy,Milk
+1458,1458,FDI50,Canned,Canned Beans
+1459,1459,FDB60,Baking Goods,All-Purpose Flour
+1461,1461,FDA20,Fruits and Vegetables,Apples
+1462,1462,NCX05,Health and Hygiene,Toothpaste
+1463,1463,DRF37,Soft Drinks,Cola
+1464,1464,FDJ26,Canned,Canned Beans
+1466,1466,FDZ58,Snack Foods,Potato Chips
+1467,1467,FDZ50,Dairy,Milk
+1468,1468,NCG18,Household,Detergent
+1470,1470,FDH50,Canned,Canned Beans
+1471,1471,DRO35,Hard Drinks,Whiskey
+1475,1475,FDP52,Frozen Foods,Frozen Pizza
+1482,1482,FDC05,Frozen Foods,Frozen Pizza
+1484,1484,NCA41,Health and Hygiene,Toothpaste
+1486,1486,FDX56,Fruits and Vegetables,Apples
+1489,1489,FDS01,Canned,Canned Beans
+1490,1490,FDW34,Snack Foods,Potato Chips
+1493,1493,NCP02,Household,Detergent
+1495,1495,FDZ49,Canned,Canned Beans
+1496,1496,NCJ17,Health and Hygiene,Toothpaste
+1499,1499,FDI53,Frozen Foods,Frozen Pizza
+1500,1500,FDW02,Dairy,Milk
+1507,1507,FDO48,Baking Goods,All-Purpose Flour
+1509,1509,FDF56,Fruits and Vegetables,Apples
+1510,1510,FDL57,Snack Foods,Potato Chips
+1513,1513,FDV52,Frozen Foods,Frozen Pizza
+1517,1517,NCS41,Health and Hygiene,Toothpaste
+1520,1520,FDF12,Baking Goods,All-Purpose Flour
+1521,1521,FDM13,Breakfast,Oats
+1523,1523,FDW55,Fruits and Vegetables,Apples
+1524,1524,NCT29,Health and Hygiene,Toothpaste
+1527,1527,NCS42,Household,Detergent
+1529,1529,FDD47,Starchy Foods,Rice
+1530,1530,DRE03,Dairy,Milk
+1531,1531,NCM18,Household,Detergent
+1534,1534,FDE20,Fruits and Vegetables,Apples
+1535,1535,FDI33,Snack Foods,Potato Chips
+1536,1536,NCT06,Household,Detergent
+1545,1545,FDK52,Frozen Foods,Frozen Pizza
+1546,1546,FDJ36,Baking Goods,All-Purpose Flour
+1548,1548,NCK18,Household,Detergent
+1550,1550,FDB08,Fruits and Vegetables,Apples
+1551,1551,FDX43,Fruits and Vegetables,Apples
+1555,1555,FDU58,Snack Foods,Potato Chips
+1560,1560,FDL09,Snack Foods,Potato Chips
+1562,1562,FDR37,Breakfast,Oats
+1563,1563,FDG56,Fruits and Vegetables,Apples
+1578,1578,NCC55,Household,Detergent
+1582,1582,FDA25,Canned,Canned Beans
+1583,1583,FDV33,Snack Foods,Potato Chips
+1584,1584,FDX47,Breads,Whole Wheat Bread
+1587,1587,FDB02,Canned,Canned Beans
+1596,1596,FDI56,Fruits and Vegetables,Apples
+1602,1602,DRJ49,Soft Drinks,Cola
+1603,1603,FDP26,Dairy,Milk
+1607,1607,FDO32,Fruits and Vegetables,Apples
+1608,1608,FDR34,Snack Foods,Potato Chips
+1609,1609,FDU59,Breads,Whole Wheat Bread
+1610,1610,FDN31,Fruits and Vegetables,Apples
+1611,1611,FDT55,Fruits and Vegetables,Apples
+1615,1615,FDC03,Dairy,Milk
+1617,1617,FDL14,Canned,Canned Beans
+1618,1618,FDP39,Meat,Chicken Breast
+1621,1621,FDT11,Breads,Whole Wheat Bread
+1622,1622,FDU48,Baking Goods,All-Purpose Flour
+1628,1628,FDT45,Snack Foods,Potato Chips
+1629,1629,FDE56,Fruits and Vegetables,Apples
+1633,1633,FDZ34,Starchy Foods,Rice
+1643,1643,FDV24,Baking Goods,All-Purpose Flour
+1645,1645,FDQ39,Meat,Chicken Breast
+1649,1649,FDE11,Starchy Foods,Rice
+1650,1650,NCU54,Household,Detergent
+1653,1653,FDO60,Baking Goods,All-Purpose Flour
+1654,1654,NCS06,Household,Detergent
+1656,1656,FDQ55,Fruits and Vegetables,Apples
+1659,1659,NCO02,Others,Miscellaneous Grocery Items
+1662,1662,FDB12,Baking Goods,All-Purpose Flour
+1663,1663,FDT40,Frozen Foods,Frozen Pizza
+1664,1664,NCO05,Health and Hygiene,Toothpaste
+1666,1666,FDM04,Frozen Foods,Frozen Pizza
+1669,1669,FDH08,Fruits and Vegetables,Apples
+1670,1670,NCQ06,Household,Detergent
+1672,1672,FDZ40,Frozen Foods,Frozen Pizza
+1675,1675,NCM17,Health and Hygiene,Toothpaste
+1678,1678,FDU03,Meat,Chicken Breast
+1680,1680,NCX30,Household,Detergent
+1681,1681,FDV08,Fruits and Vegetables,Apples
+1685,1685,DRK47,Hard Drinks,Whiskey
+1692,1692,DRI47,Hard Drinks,Whiskey
+1695,1695,FDR35,Breads,Whole Wheat Bread
+1696,1696,FDK03,Dairy,Milk
+1699,1699,FDZ59,Baking Goods,All-Purpose Flour
+1707,1707,FDL03,Meat,Chicken Breast
+1708,1708,DRC25,Soft Drinks,Cola
+1716,1716,NCG07,Household,Detergent
+1719,1719,FDL45,Snack Foods,Potato Chips
+1722,1722,FDC45,Fruits and Vegetables,Apples
+1723,1723,FDI40,Frozen Foods,Frozen Pizza
+1724,1724,FDQ11,Breads,Whole Wheat Bread
+1729,1729,FDQ52,Frozen Foods,Frozen Pizza
+1733,1733,FDJ27,Meat,Chicken Breast
+1736,1736,FDT26,Dairy,Milk
+1742,1742,NCH07,Household,Detergent
+1743,1743,FDP44,Fruits and Vegetables,Apples
+1747,1747,FDI48,Baking Goods,All-Purpose Flour
+1750,1750,NCF06,Household,Detergent
+1752,1752,NCL05,Health and Hygiene,Toothpaste
+1753,1753,FDT24,Baking Goods,All-Purpose Flour
+1757,1757,FDS11,Breads,Whole Wheat Bread
+1758,1758,FDC28,Frozen Foods,Frozen Pizza
+1760,1760,DRE15,Dairy,Milk
+1766,1766,NCI42,Household,Detergent
+1768,1768,FDX37,Canned,Canned Beans
+1772,1772,FDM09,Snack Foods,Potato Chips
+1773,1773,NCW54,Household,Detergent
+1786,1786,FDF47,Starchy Foods,Rice
+1796,1796,DRD01,Soft Drinks,Cola
+1806,1806,FDN25,Breakfast,Oats
+1814,1814,FDW36,Baking Goods,All-Purpose Flour
+1819,1819,FDP20,Fruits and Vegetables,Apples
+1821,1821,FDR45,Snack Foods,Potato Chips
+1824,1824,FDZ45,Snack Foods,Potato Chips
+1825,1825,FDB23,Starchy Foods,Rice
+1828,1828,NCM26,Others,Miscellaneous Grocery Items
+1832,1832,FDK40,Frozen Foods,Frozen Pizza
+1835,1835,NCL42,Household,Detergent
+1843,1843,FDY04,Frozen Foods,Frozen Pizza
+1849,1849,NCG30,Household,Detergent
+1850,1850,NCH29,Health and Hygiene,Toothpaste
+1855,1855,NCM29,Health and Hygiene,Toothpaste
+1857,1857,FDD53,Frozen Foods,Frozen Pizza
+1864,1864,NCP41,Health and Hygiene,Toothpaste
+1871,1871,FDJ28,Frozen Foods,Frozen Pizza
+1873,1873,FDH44,Fruits and Vegetables,Apples
+1874,1874,NCY54,Household,Detergent
+1876,1876,DRA59,Soft Drinks,Cola
+1877,1877,FDS55,Fruits and Vegetables,Apples
+1881,1881,NCN19,Others,Miscellaneous Grocery Items
+1884,1884,FDH09,Seafood,Salmon
+1888,1888,FDS25,Canned,Canned Beans
+1890,1890,NCI30,Household,Detergent
+1893,1893,FDM33,Snack Foods,Potato Chips
+1897,1897,NCA53,Health and Hygiene,Toothpaste
+1903,1903,FDS56,Fruits and Vegetables,Apples
+1904,1904,FDT07,Fruits and Vegetables,Apples
+1906,1906,FDJ10,Snack Foods,Potato Chips
+1909,1909,FDA38,Dairy,Milk
+1914,1914,FDW32,Fruits and Vegetables,Apples
+1915,1915,NCW18,Household,Detergent
+1916,1916,FDQ44,Fruits and Vegetables,Apples
+1919,1919,FDQ34,Snack Foods,Potato Chips
+1921,1921,FDN08,Fruits and Vegetables,Apples
+1922,1922,FDK57,Snack Foods,Potato Chips
+1931,1931,DRG48,Soft Drinks,Cola
+1932,1932,FDH52,Frozen Foods,Frozen Pizza
+1934,1934,NCH43,Household,Detergent
+1939,1939,FDD35,Starchy Foods,Rice
+1940,1940,FDR01,Canned,Canned Beans
+1943,1943,FDS23,Breads,Whole Wheat Bread
+1947,1947,FDJ53,Frozen Foods,Frozen Pizza
+1950,1950,FDA32,Fruits and Vegetables,Apples
+1955,1955,FDX01,Canned,Canned Beans
+1967,1967,FDA48,Baking Goods,All-Purpose Flour
+1971,1971,FDI09,Seafood,Salmon
+1973,1973,DRF13,Soft Drinks,Cola
+1974,1974,FDK25,Breakfast,Oats
+1978,1978,FDC20,Fruits and Vegetables,Apples
+1980,1980,FDQ19,Fruits and Vegetables,Apples
+1983,1983,FDV50,Dairy,Milk
+1986,1986,DRG37,Soft Drinks,Cola
+1991,1991,FDS08,Fruits and Vegetables,Apples
+1995,1995,FDG22,Snack Foods,Potato Chips
+1996,1996,DRJ47,Hard Drinks,Whiskey
+1998,1998,FDZ43,Fruits and Vegetables,Apples
+2000,2000,FDJ50,Canned,Canned Beans
+2001,2001,FDV35,Breads,Whole Wheat Bread
+2003,2003,DRL35,Hard Drinks,Whiskey
+2005,2005,FDS24,Baking Goods,All-Purpose Flour
+2007,2007,FDS13,Canned,Canned Beans
+2009,2009,FDW26,Dairy,Milk
+2010,2010,FDQ12,Baking Goods,All-Purpose Flour
+2012,2012,FDL36,Baking Goods,All-Purpose Flour
+2017,2017,DRJ11,Hard Drinks,Whiskey
+2019,2019,NCT17,Health and Hygiene,Toothpaste
+2022,2022,DRH36,Soft Drinks,Cola
+2024,2024,NCA17,Health and Hygiene,Toothpaste
+2027,2027,FDG41,Frozen Foods,Frozen Pizza
+2042,2042,NCS38,Household,Detergent
+2043,2043,FDQ16,Frozen Foods,Frozen Pizza
+2044,2044,FDS40,Frozen Foods,Frozen Pizza
+2046,2046,FDV31,Fruits and Vegetables,Apples
+2047,2047,NCD42,Health and Hygiene,Toothpaste
+2050,2050,FDW21,Snack Foods,Potato Chips
+2054,2054,DRF60,Soft Drinks,Cola
+2055,2055,FDQ36,Baking Goods,All-Purpose Flour
+2056,2056,FDP34,Snack Foods,Potato Chips
+2061,2061,FDI02,Canned,Canned Beans
+2064,2064,FDG50,Canned,Canned Beans
+2066,2066,FDV48,Baking Goods,All-Purpose Flour
+2070,2070,FDH02,Canned,Canned Beans
+2071,2071,NCD43,Household,Detergent
+2072,2072,FDE46,Snack Foods,Potato Chips
+2073,2073,NCO42,Household,Detergent
+2074,2074,FDR40,Frozen Foods,Frozen Pizza
+2080,2080,DRE48,Soft Drinks,Cola
+2086,2086,FDV16,Frozen Foods,Frozen Pizza
+2087,2087,FDY19,Fruits and Vegetables,Apples
+2097,2097,FDD41,Frozen Foods,Frozen Pizza
+2101,2101,NCK07,Others,Miscellaneous Grocery Items
+2104,2104,FDZ60,Baking Goods,All-Purpose Flour
+2106,2106,FDW47,Breads,Whole Wheat Bread
+2112,2112,FDX58,Snack Foods,Potato Chips
+2117,2117,FDS04,Frozen Foods,Frozen Pizza
+2120,2120,FDK16,Frozen Foods,Frozen Pizza
+2127,2127,NCU42,Household,Detergent
+2131,2131,FDS37,Canned,Canned Beans
+2132,2132,FDO25,Canned,Canned Beans
+2133,2133,FDS57,Snack Foods,Potato Chips
+2134,2134,FDI52,Frozen Foods,Frozen Pizza
+2136,2136,FDG40,Frozen Foods,Frozen Pizza
+2137,2137,FDU49,Canned,Canned Beans
+2144,2144,NCM30,Household,Detergent
+2146,2146,DRO47,Hard Drinks,Whiskey
+2152,2152,NCY06,Household,Detergent
+2157,2157,NCL41,Health and Hygiene,Toothpaste
+2158,2158,FDM58,Snack Foods,Potato Chips
+2173,2173,FDI07,Meat,Chicken Breast
+2175,2175,DRL47,Hard Drinks,Whiskey
+2186,2186,FDQ25,Canned,Canned Beans
+2204,2204,FDE26,Canned,Canned Beans
+2205,2205,FDD56,Fruits and Vegetables,Apples
+2207,2207,FDQ13,Canned,Canned Beans
+2212,2212,DRD25,Soft Drinks,Cola
+2216,2216,FDT16,Frozen Foods,Frozen Pizza
+2219,2219,NCB54,Health and Hygiene,Toothpaste
+2221,2221,FDA31,Fruits and Vegetables,Apples
+2223,2223,FDM12,Baking Goods,All-Purpose Flour
+2229,2229,FDY47,Breads,Whole Wheat Bread
+2232,2232,FDT03,Meat,Chicken Breast
+2233,2233,FDB49,Baking Goods,All-Purpose Flour
+2235,2235,FDE47,Starchy Foods,Rice
+2237,2237,FDU23,Breads,Whole Wheat Bread
+2239,2239,FDV09,Snack Foods,Potato Chips
+2247,2247,NCA30,Household,Detergent
+2253,2253,FDH41,Frozen Foods,Frozen Pizza
+2257,2257,FDS43,Fruits and Vegetables,Apples
+2261,2261,FDP37,Breakfast,Oats
+2263,2263,FDJ09,Snack Foods,Potato Chips
+2271,2271,FDC57,Fruits and Vegetables,Apples
+2273,2273,DRD27,Dairy,Milk
+2274,2274,FDI12,Baking Goods,All-Purpose Flour
+2275,2275,FDQ33,Snack Foods,Potato Chips
+2276,2276,FDQ27,Meat,Chicken Breast
+2281,2281,FDH34,Snack Foods,Potato Chips
+2284,2284,FDB20,Fruits and Vegetables,Apples
+2288,2288,DRL60,Soft Drinks,Cola
+2294,2294,DRJ23,Hard Drinks,Whiskey
+2295,2295,FDQ26,Dairy,Milk
+2296,2296,NCA06,Household,Detergent
+2301,2301,FDJ07,Meat,Chicken Breast
+2308,2308,FDP56,Fruits and Vegetables,Apples
+2314,2314,FDF26,Canned,Canned Beans
+2321,2321,FDA11,Baking Goods,All-Purpose Flour
+2322,2322,DRI23,Hard Drinks,Whiskey
+2326,2326,NCJ05,Health and Hygiene,Toothpaste
+2332,2332,FDI21,Snack Foods,Potato Chips
+2338,2338,FDH12,Baking Goods,All-Purpose Flour
+2347,2347,FDD02,Canned,Canned Beans
+2348,2348,FDL28,Frozen Foods,Frozen Pizza
+2353,2353,FDR10,Snack Foods,Potato Chips
+2355,2355,FDR15,Meat,Chicken Breast
+2356,2356,FDQ40,Frozen Foods,Frozen Pizza
+2365,2365,FDS34,Snack Foods,Potato Chips
+2369,2369,FDT56,Fruits and Vegetables,Apples
+2385,2385,FDU24,Baking Goods,All-Purpose Flour
+2386,2386,FDX11,Baking Goods,All-Purpose Flour
+2387,2387,FDF35,Starchy Foods,Rice
+2406,2406,FDD22,Snack Foods,Potato Chips
+2410,2410,FDT60,Baking Goods,All-Purpose Flour
+2417,2417,FDF17,Frozen Foods,Frozen Pizza
+2426,2426,NCP53,Health and Hygiene,Toothpaste
+2436,2436,FDF29,Frozen Foods,Frozen Pizza
+2438,2438,FDI10,Snack Foods,Potato Chips
+2442,2442,FDR09,Snack Foods,Potato Chips
+2465,2465,FDO03,Meat,Chicken Breast
+2470,2470,FDD26,Canned,Canned Beans
+2477,2477,FDO39,Meat,Chicken Breast
+2480,2480,FDX51,Meat,Chicken Breast
+2481,2481,FDC38,Canned,Canned Beans
+2488,2488,FDP07,Fruits and Vegetables,Apples
+2489,2489,FDK27,Meat,Chicken Breast
+2490,2490,FDP31,Fruits and Vegetables,Apples
+2505,2505,FDM10,Snack Foods,Potato Chips
+2507,2507,FDD11,Starchy Foods,Rice
+2514,2514,FDN45,Snack Foods,Potato Chips
+2524,2524,FDJ04,Frozen Foods,Frozen Pizza
+2531,2531,NCT42,Household,Detergent
+2540,2540,FDD45,Fruits and Vegetables,Apples
+2547,2547,FDK56,Fruits and Vegetables,Apples
+2550,2550,FDX03,Meat,Chicken Breast
+2553,2553,NCU18,Household,Detergent
+2562,2562,FDJ48,Baking Goods,All-Purpose Flour
+2563,2563,FDV21,Snack Foods,Potato Chips
+2566,2566,FDK09,Snack Foods,Potato Chips
+2578,2578,NCN42,Household,Detergent
+2586,2586,FDL16,Frozen Foods,Frozen Pizza
+2588,2588,FDM34,Snack Foods,Potato Chips
+2589,2589,FDG60,Baking Goods,All-Purpose Flour
+2591,2591,DRD12,Soft Drinks,Cola
+2601,2601,FDJ16,Frozen Foods,Frozen Pizza
+2609,2609,FDI22,Snack Foods,Potato Chips
+2612,2612,NCC07,Household,Detergent
+2614,2614,FDM16,Frozen Foods,Frozen Pizza
+2624,2624,FDT36,Baking Goods,All-Purpose Flour
+2625,2625,FDH38,Canned,Canned Beans
+2626,2626,FDC16,Dairy,Milk
+2636,2636,FDT33,Snack Foods,Potato Chips
+2639,2639,FDU31,Fruits and Vegetables,Apples
+2640,2640,DRJ01,Soft Drinks,Cola
+2645,2645,NCF43,Household,Detergent
+2649,2649,NCS53,Health and Hygiene,Toothpaste
+2657,2657,DRB24,Soft Drinks,Cola
+2667,2667,FDE23,Starchy Foods,Rice
+2673,2673,FDW60,Baking Goods,All-Purpose Flour
+2679,2679,NCQ18,Household,Detergent
+2681,2681,NCE30,Household,Detergent
+2683,2683,FDW25,Canned,Canned Beans
+2690,2690,NCY17,Health and Hygiene,Toothpaste
+2701,2701,NCS18,Household,Detergent
+2710,2710,FDB32,Fruits and Vegetables,Apples
+2713,2713,FDG10,Snack Foods,Potato Chips
+2714,2714,FDF38,Canned,Canned Beans
+2715,2715,FDW59,Breads,Whole Wheat Bread
+2722,2722,FDY57,Snack Foods,Potato Chips
+2727,2727,FDY16,Frozen Foods,Frozen Pizza
+2736,2736,FDA22,Starchy Foods,Rice
+2738,2738,FDV03,Meat,Chicken Breast
+2739,2739,FDP27,Meat,Chicken Breast
+2747,2747,FDZ37,Canned,Canned Beans
+2748,2748,FDL10,Snack Foods,Potato Chips
+2758,2758,FDE09,Fruits and Vegetables,Apples
+2761,2761,FDF33,Seafood,Salmon
+2770,2770,FDR31,Fruits and Vegetables,Apples
+2779,2779,NCQ29,Health and Hygiene,Toothpaste
+2783,2783,NCI55,Household,Detergent
+2788,2788,FDD14,Canned,Canned Beans
+2790,2790,NCD18,Household,Detergent
+2791,2791,NCE55,Household,Detergent
+2795,2795,FDX48,Baking Goods,All-Purpose Flour
+2797,2797,DRF48,Soft Drinks,Cola
+2803,2803,FDU51,Meat,Chicken Breast
+2804,2804,NCC19,Household,Detergent
+2816,2816,NCO29,Health and Hygiene,Toothpaste
+2820,2820,FDX55,Fruits and Vegetables,Apples
+2822,2822,FDZ19,Fruits and Vegetables,Apples
+2830,2830,NCV53,Health and Hygiene,Toothpaste
+2831,2831,FDA35,Baking Goods,All-Purpose Flour
+2835,2835,FDX24,Baking Goods,All-Purpose Flour
+2848,2848,NCS05,Health and Hygiene,Toothpaste
+2850,2850,FDK04,Frozen Foods,Frozen Pizza
+2851,2851,FDI58,Snack Foods,Potato Chips
+2875,2875,FDG58,Snack Foods,Potato Chips
+2876,2876,FDI60,Baking Goods,All-Purpose Flour
+2880,2880,FDW52,Frozen Foods,Frozen Pizza
+2881,2881,FDN38,Canned,Canned Beans
+2886,2886,FDU39,Meat,Chicken Breast
+2887,2887,FDR25,Canned,Canned Beans
+2888,2888,FDM44,Fruits and Vegetables,Apples
+2895,2895,FDM27,Meat,Chicken Breast
+2902,2902,NCA29,Household,Detergent
+2921,2921,NCJ43,Household,Detergent
+2928,2928,FDX28,Frozen Foods,Frozen Pizza
+2930,2930,FDW15,Meat,Chicken Breast
+2936,2936,FDO20,Fruits and Vegetables,Apples
+2941,2941,NCR50,Household,Detergent
+2955,2955,FDN28,Frozen Foods,Frozen Pizza
+2956,2956,FDY13,Canned,Canned Beans
+2959,2959,FDA57,Snack Foods,Potato Chips
+2964,2964,FDB52,Dairy,Milk
+2969,2969,FDS07,Fruits and Vegetables,Apples
+2971,2971,FDO31,Fruits and Vegetables,Apples
+2974,2974,FDP57,Snack Foods,Potato Chips
+2975,2975,FDO21,Snack Foods,Potato Chips
+2991,2991,FDW58,Snack Foods,Potato Chips
+2992,2992,NCL07,Others,Miscellaneous Grocery Items
+2993,2993,FDU12,Baking Goods,All-Purpose Flour
+3002,3002,FDV47,Breads,Whole Wheat Bread
+3006,3006,FDU57,Snack Foods,Potato Chips
+3016,3016,FDF02,Canned,Canned Beans
+3027,3027,DRG13,Soft Drinks,Cola
+3039,3039,NCN53,Health and Hygiene,Toothpaste
+3052,3052,FDI15,Dairy,Milk
+3064,3064,NCN17,Health and Hygiene,Toothpaste
+3068,3068,FDN24,Baking Goods,All-Purpose Flour
+3079,3079,DRH11,Hard Drinks,Whiskey
+3083,3083,FDJ15,Dairy,Milk
+3085,3085,DRF51,Dairy,Milk
+3090,3090,FDO37,Breakfast,Oats
+3095,3095,FDW10,Snack Foods,Potato Chips
+3103,3103,DRN37,Soft Drinks,Cola
+3106,3106,FDA37,Canned,Canned Beans
+3113,3113,FDU35,Breads,Whole Wheat Bread
+3117,3117,FDS59,Breads,Whole Wheat Bread
+3120,3120,FDL15,Meat,Chicken Breast
+3122,3122,FDB28,Dairy,Milk
+3130,3130,FDY37,Canned,Canned Beans
+3155,3155,FDP58,Snack Foods,Potato Chips
+3163,3163,FDF58,Snack Foods,Potato Chips
+3166,3166,FDB47,Snack Foods,Potato Chips
+3182,3182,FDV14,Dairy,Milk
+3185,3185,FDC23,Starchy Foods,Rice
+3186,3186,FDU33,Snack Foods,Potato Chips
+3188,3188,DRO59,Hard Drinks,Whiskey
+3189,3189,FDD48,Baking Goods,All-Purpose Flour
+3191,3191,NCK30,Household,Detergent
+3195,3195,FDW33,Snack Foods,Potato Chips
+3200,3200,FDT37,Canned,Canned Beans
+3207,3207,FDP46,Snack Foods,Potato Chips
+3218,3218,NCC18,Household,Detergent
+3229,3229,FDU07,Fruits and Vegetables,Apples
+3232,3232,FDE21,Fruits and Vegetables,Apples
+3250,3250,FDX38,Dairy,Milk
+3252,3252,FDH48,Baking Goods,All-Purpose Flour
+3255,3255,FDI38,Canned,Canned Beans
+3258,3258,NCX53,Health and Hygiene,Toothpaste
+3262,3262,NCN30,Household,Detergent
+3266,3266,FDK33,Snack Foods,Potato Chips
+3271,3271,FDU26,Dairy,Milk
+3272,3272,FDR39,Meat,Chicken Breast
+3290,3290,NCG55,Household,Detergent
+3298,3298,NCC54,Health and Hygiene,Toothpaste
+3304,3304,FDR33,Snack Foods,Potato Chips
+3309,3309,FDT14,Dairy,Milk
+3310,3310,DRL49,Soft Drinks,Cola
+3329,3329,NCT30,Household,Detergent
+3333,3333,FDU27,Meat,Chicken Breast
+3344,3344,FDS20,Fruits and Vegetables,Apples
+3345,3345,FDA07,Fruits and Vegetables,Apples
+3352,3352,FDZ51,Meat,Chicken Breast
+3359,3359,NCN54,Household,Detergent
+3365,3365,FDR11,Breads,Whole Wheat Bread
+3373,3373,NCR42,Household,Detergent
+3380,3380,FDX04,Frozen Foods,Frozen Pizza
+3397,3397,FDN03,Meat,Chicken Breast
+3401,3401,FDM03,Meat,Chicken Breast
+3411,3411,FDT23,Breads,Whole Wheat Bread
+3412,3412,FDB50,Canned,Canned Beans
+3446,3446,NCG54,Household,Detergent
+3455,3455,FDJ52,Frozen Foods,Frozen Pizza
+3458,3458,FDE28,Frozen Foods,Frozen Pizza
+3464,3464,FDA58,Snack Foods,Potato Chips
+3465,3465,DRB01,Soft Drinks,Cola
+3468,3468,NCZ29,Health and Hygiene,Toothpaste
+3476,3476,FDF50,Canned,Canned Beans
+3483,3483,FDT51,Meat,Chicken Breast
+3489,3489,FDP40,Frozen Foods,Frozen Pizza
+3496,3496,FDF39,Dairy,Milk
+3505,3505,FDQ58,Snack Foods,Potato Chips
+3509,3509,FDA55,Fruits and Vegetables,Apples
+3512,3512,FDA19,Fruits and Vegetables,Apples
+3530,3530,FDF59,Starchy Foods,Rice
+3555,3555,FDJ46,Snack Foods,Potato Chips
+3584,3584,FDC47,Snack Foods,Potato Chips
+3592,3592,FDC22,Snack Foods,Potato Chips
+3593,3593,FDD39,Dairy,Milk
+3595,3595,DRE01,Soft Drinks,Cola
+3599,3599,NCS30,Household,Detergent
+3601,3601,FDH47,Starchy Foods,Rice
+3605,3605,FDP08,Fruits and Vegetables,Apples
+3612,3612,NCY42,Household,Detergent
+3617,3617,FDE44,Fruits and Vegetables,Apples
+3631,3631,FDJ12,Baking Goods,All-Purpose Flour
+3643,3643,FDV36,Baking Goods,All-Purpose Flour
+3644,3644,NCW41,Health and Hygiene,Toothpaste
+3670,3670,FDX12,Baking Goods,All-Purpose Flour
+3688,3688,NCY53,Health and Hygiene,Toothpaste
+3695,3695,NCH42,Household,Detergent
+3704,3704,FDH46,Snack Foods,Potato Chips
+3717,3717,FDV26,Dairy,Milk
+3725,3725,DRI03,Dairy,Milk
+3734,3734,NCL06,Household,Detergent
+3736,3736,NCO14,Household,Detergent
+3747,3747,FDI08,Fruits and Vegetables,Apples
+3753,3753,FDZ14,Dairy,Milk
+3781,3781,FDS14,Dairy,Milk
+3785,3785,NCK53,Health and Hygiene,Toothpaste
+3788,3788,FDH56,Fruits and Vegetables,Apples
+3810,3810,NCQ30,Household,Detergent
+3817,3817,FDG32,Fruits and Vegetables,Apples
+3825,3825,FDK32,Fruits and Vegetables,Apples
+3837,3837,FDY48,Baking Goods,All-Purpose Flour
+3842,3842,NCU06,Household,Detergent
+3849,3849,FDM38,Canned,Canned Beans
+3856,3856,FDT15,Meat,Chicken Breast
+3871,3871,NCJ19,Others,Miscellaneous Grocery Items
+3876,3876,NCI06,Household,Detergent
+3900,3900,FDV19,Fruits and Vegetables,Apples
+3916,3916,FDQ47,Breads,Whole Wheat Bread
+3954,3954,NCW06,Household,Detergent
+3957,3957,FDO16,Frozen Foods,Frozen Pizza
+3965,3965,DRN35,Hard Drinks,Whiskey
+3969,3969,FDV55,Fruits and Vegetables,Apples
+3974,3974,FDB03,Dairy,Milk
+3976,3976,FDJ32,Fruits and Vegetables,Apples
+3992,3992,FDC34,Snack Foods,Potato Chips
+3994,3994,FDG05,Frozen Foods,Frozen Pizza
+4020,4020,NCJ06,Household,Detergent
+4029,4029,FDD23,Starchy Foods,Rice
+4045,4045,FDX52,Frozen Foods,Frozen Pizza
+4052,4052,FDO12,Baking Goods,All-Purpose Flour
+4065,4065,FDT35,Breads,Whole Wheat Bread
+4075,4075,FDU19,Fruits and Vegetables,Apples
+4093,4093,FDY50,Dairy,Milk
+4116,4116,FDE57,Fruits and Vegetables,Apples
+4127,4127,FDE14,Canned,Canned Beans
+4147,4147,FDG04,Frozen Foods,Frozen Pizza
+4187,4187,FDE52,Dairy,Milk
+4191,4191,DRL59,Hard Drinks,Whiskey
+4198,4198,FDI34,Snack Foods,Potato Chips
+4209,4209,FDC58,Snack Foods,Potato Chips
+4235,4235,FDT02,Dairy,Milk
+4250,4250,FDH04,Frozen Foods,Frozen Pizza
+4281,4281,FDK46,Snack Foods,Potato Chips
+4311,4311,FDR22,Snack Foods,Potato Chips
+4314,4314,FDH60,Baking Goods,All-Purpose Flour
+4322,4322,FDY39,Meat,Chicken Breast
+4342,4342,NCF30,Household,Detergent
+4350,4350,FDN49,Breakfast,Oats
+4353,4353,DRC24,Soft Drinks,Cola
+4369,4369,FDS60,Baking Goods,All-Purpose Flour
+4376,4376,FDZ02,Dairy,Milk
+4388,4388,FDW16,Frozen Foods,Frozen Pizza
+4398,4398,NCQ17,Health and Hygiene,Toothpaste
+4402,4402,NCO53,Health and Hygiene,Toothpaste
+4406,4406,FDU47,Breads,Whole Wheat Bread
+4411,4411,FDK50,Canned,Canned Beans
+4429,4429,NCE42,Household,Detergent
+4436,4436,FDZ09,Snack Foods,Potato Chips
+4438,4438,NCU30,Household,Detergent
+4446,4446,DRG36,Soft Drinks,Cola
+4470,4470,NCD31,Household,Detergent
+4485,4485,NCV29,Health and Hygiene,Toothpaste
+4512,4512,NCP17,Health and Hygiene,Toothpaste
+4535,4535,DRM49,Soft Drinks,Cola
+4545,4545,FDY14,Dairy,Milk
+4563,4563,DRI59,Hard Drinks,Whiskey
+4574,4574,FDY01,Canned,Canned Beans
+4663,4663,FDT47,Breads,Whole Wheat Bread
+4715,4715,NCS29,Health and Hygiene,Toothpaste
+4734,4734,NCT53,Health and Hygiene,Toothpaste
+4736,4736,FDP21,Snack Foods,Potato Chips
+4815,4815,FDD33,Fruits and Vegetables,Apples
+4835,4835,DRC49,Soft Drinks,Cola
+4890,4890,FDB10,Snack Foods,Potato Chips
+4901,4901,FDS39,Meat,Chicken Breast
+4923,4923,NCU29,Health and Hygiene,Toothpaste
+4937,4937,NCP14,Household,Detergent
+4945,4945,FDC48,Baking Goods,All-Purpose Flour
+4979,4979,FDW14,Dairy,Milk
+4986,4986,FDS36,Baking Goods,All-Purpose Flour
+5005,5005,NCA18,Household,Detergent
+5022,5022,FDQ60,Baking Goods,All-Purpose Flour
+5045,5045,FDI36,Baking Goods,All-Purpose Flour
+5056,5056,FDI05,Frozen Foods,Frozen Pizza
+5114,5114,FDS22,Snack Foods,Potato Chips
+5211,5211,FDN40,Frozen Foods,Frozen Pizza
+5304,5304,NCV18,Household,Detergent
+5434,5434,FDP15,Meat,Chicken Breast
+5437,5437,NCD55,Household,Detergent
+5531,5531,DRG25,Soft Drinks,Cola
+5577,5577,FDN51,Meat,Chicken Breast
+5690,5690,FDB46,Snack Foods,Potato Chips
+5717,5717,NCX17,Health and Hygiene,Toothpaste
+5850,5850,FDH31,Meat,Chicken Breast
+5932,5932,FDX13,Canned,Canned Beans
+6094,6094,NCU53,Health and Hygiene,Toothpaste
+6440,6440,FDD28,Frozen Foods,Frozen Pizza
+6526,6526,FDU43,Fruits and Vegetables,Apples
+6892,6892,NCF55,Household,Detergent
+7039,7039,NCW30,Household,Detergent
+7298,7298,NCW05,Health and Hygiene,Toothpaste

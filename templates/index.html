@@ -10,112 +10,259 @@
             background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
             margin: 0;
             display: flex;
-            flex-direction: column;
             align-items: center;
             justify-content: center;
             min-height: 100vh;
             color: #333;
         }
-        h1 {
-            font-size: 2.5em;
-            margin-bottom: 20px;
+        .container {
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+            width: 100%;
+            max-width: 1400px;
         }
+        
+        .left-side {
+            width: 50%; /* Use half of the screen */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            padding-right: 20px; /* Add space between images and form */
+        }
+        
+        .left-side img {
+            width: 100%; /* Make images take full width of the left side */
+            height: 45vh; /* Adjust height so they fill the section */
+            max-height: 50vh;
+            border-radius: 8px;
+            object-fit: contain; /* Maintain aspect ratio */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        
+        .form-container {
+            width: 50%; /* Adjust width so the form stays balanced */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
         form {
             background: #fff;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-            margin-bottom: 30px;
-            width: 90%;
+            padding: 20px;
+            border-radius: 8px;
+            width: 100%;
             max-width: 500px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
         }
         label {
             display: block;
-            margin-top: 10px;
+            margin: 15px 0 5px;
             font-weight: bold;
         }
-        input[type="text"], select, input[type="file"] {
+        select, input[type="text"], input[type="number"], input[type="file"] {
             width: 100%;
             padding: 10px;
-            margin-top: 5px;
             margin-bottom: 15px;
             border: 1px solid #ccc;
             border-radius: 4px;
         }
         input[type="submit"] {
+            width: 100%;
+            padding: 10px;
             background-color: #28a745;
             color: white;
-            padding: 12px 20px;
+            font-size: 1.1em;
             border: none;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 1em;
         }
         input[type="submit"]:hover {
             background-color: #218838;
         }
-        .container {
-            text-align: center;
+        .error-message {
+            color: red;
+            font-size: 0.9em;
+            margin-bottom: 10px;
         }
-        .form-header {
-            margin-bottom: 20px;
+        .graph-container {
+            display: none;
+            margin-top: 20px;
+        }
+        button {
+            margin: 10px;
+            padding: 10px;
+            font-size: 16px;
+            cursor: pointer;
         }
     </style>
 </head>
 <body>
+
     <div class="container">
-        <h1>Prediction App</h1>
-
-        <!-- File Upload Form -->
+        
+    
+        
+        
+        <!-- Right Side: Forms -->
         <div class="form-container">
-            <div class="form-header">
-                <h2>Upload CSV File for Prediction</h2>
-            </div>
+            <h1>Results from Jupyter Notebook</h1>
+        
+    <button onclick="showGraph('heatmap1')"> Heatmap of all features</button>
+    <button onclick="showGraph('heatmap')"> Heatmap of selelcted features</button>
+    <button onclick="showGraph('rmse')">Show RMSE Chart</button>
+    <button onclick="showGraph('mae')">Show MAE Chart</button>
+    <button onclick="showGraph('r2')">Show R² Chart</button>
+
+    <!-- Graph Containers (Initially Hidden) -->
+    <div id="heatmap1" class="graph-container">
+        <h1>Correlation Heatmap of all features</h1>
+        <img id="jupyterImage" src="/static/before_correlation_heatmap.png" alt="Plot from Jupyter" width="600">
+    </div>
+    <div id="heatmap" class="graph-container">
+        <h1>Correlation Heatmap of selected features</h1>
+        <img id="jupyterImage1" src="/static/correlation_heatmap.png" alt="Plot from Jupyter" width="600">
+    </div>
+    <div id="rmse" class="graph-container">
+        <h2>Root Mean Square Error (RMSE)</h2>
+        <img src="data:image/png;base64,{{ images['rmse'] }}" alt="RMSE Chart">
+    </div>
+
+    <div id="mae" class="graph-container">
+        <h2>Mean Absolute Error (MAE)</h2>
+        <img src="data:image/png;base64,{{ images['mae'] }}" alt="MAE Chart">
+    </div>
+
+    <div id="r2" class="graph-container">
+        <h2>R-Squared (R²) Score</h2>
+        <img src="data:image/png;base64,{{ images['r2'] }}" alt="R² Chart">
+    </div>
+
+    <script>
+        function showGraph(graphId) {
+            // Hide all graphs first
+            document.getElementById("heatmap1").style.display = "none";
+            document.getElementById("heatmap").style.display = "none";
+            document.getElementById("rmse").style.display = "none";
+            document.getElementById("mae").style.display = "none";
+            document.getElementById("r2").style.display = "none";
+
+            // Show the selected graph
+            document.getElementById(graphId).style.display = "block";
+        }
+    </script>
+    
             <form action="/upload" method="post" enctype="multipart/form-data">
-                <label for="model">Select Model:</label>
-                <select id="model" name="model">
-                    <option value="linear">Linear Regression</option>
-                    <option value="random_forest">Random Forest</option>
-                    <option value="gradient_boosting">Gradient Boosting</option>
-                </select>
-                <input type="file" name="file" required>
-                <input type="submit" value="Upload">
-            </form>
-        </div>
+                <h1>Sales Prediction App</h1>
 
-        <!-- Manual Entry Form -->
-        <div class="form-container">
-            <div class="form-header">
-                <h2>Enter Single Record for Prediction</h2>
-            </div>
-            <form action="/predict" method="post">
                 <label for="model">Select Model:</label>
                 <select id="model" name="model">
                     <option value="linear">Linear Regression</option>
                     <option value="random_forest">Random Forest</option>
                     <option value="gradient_boosting">Gradient Boosting</option>
                 </select>
-                <label for="Item_Weight">Item Weight:</label>
-                <input type="text" id="Item_Weight" name="Item_Weight" required>
-                <label for="Item_Visibility">Item Visibility:</label>
-                <input type="text" id="Item_Visibility" name="Item_Visibility" required>
-                <label for="Item_MRP">Item MRP:</label>
-                <input type="text" id="Item_MRP" name="Item_MRP" required>
-                <label for="O_Years">O Years:</label>
-                <input type="text" id="O_Years" name="O_Years" required>
-                <label for="I_Fate_Content">Item Fat Content:</label>
-                <input type="text" id="I_Fate_Content" name="I_Fate_Content" required>
-                <label for="I_Type">Item Type:</label>
-                <input type="text" id="I_Type" name="I_Type" required>
-                <label for="O_Size">Outlet Size:</label>
-                <input type="text" id="O_Size" name="O_Size" required>
-                <label for="O_Location_Type">Outlet Location Type:</label>
-                <input type="text" id="O_Location_Type" name="O_Location_Type" required>
-                <label for="O_Type">Outlet Type:</label>
-                <input type="text" id="O_Type" name="O_Type" required>
+
+                <label for="file">Upload File:The Column Name in the DataSet Should be<span title="
+                     1 Item_Identifier    2 Item_Weight    3 Item_Fat_Content    4 Item_Visibility  5 Item_Type   6 Item_MRP    7 Outlet_Identifier   8 Outlet_Establishment_Year  9 Outlet_Size   10 Outlet_Location_Type   11 Outlet_Type  12 Item_Outlet_Sales   ">ℹ️</span></label>
+                <input type="file" id="file" name="file" required>
+
+                <input type="submit" value="Upload and Predict">
+            </form>
+
+            <form action="/predict" method="post" onsubmit="validateForm(event)">
+                <label for="model">Select Model:</label>
+                <select id="model" name="model">
+                    <option value="linear">Linear Regression</option>
+                    <option value="random_forest">Random Forest</option>
+                    <option value="gradient_boosting">Gradient Boosting</option>
+                </select>
+
+                <label for="Item_Identifier">Select Product:</label>
+                <select id="Item_Identifier" name="Item_Identifier">
+                    {% for item_id, product_name, item_type in item_identifiers %}
+                    <option value="{{ item_id }}">{{ product_name }} ({{ item_id }})- ({{item_type}})</option>
+                    {% endfor %}
+                </select>
+
+                
+
+
+                <label for="Item_Type">Item Type:</label>
+                <select id="Item_Type" name="Item_Type">
+                    <option value="0">Baking Goods</option>
+                    <option value="1">Breads</option>
+                    <option value="2">Breakfast</option>
+                    <option value="3">Canned</option>
+                    <option value="4">Dairy</option>
+                    <option value="5">Frozen Foods</option>
+                    <option value="6">Fruits and Vegetables</option>
+                    <option value="7">Hard Drinks</option>
+                    <option value="8">Health and Hygiene</option>
+                    <option value="9">Household</option>
+                    <option value="10">Meat</option>
+                    <option value="11">Others</option>
+                    <option value="12">Seafood</option>
+                    <option value="13">Snack Foods</option>
+                    <option value="14">Soft Drinks</option>
+                    <option value="15">Starchy Foods</option>
+                </select>
+                <h5>(Baking Goods=0),(Bread=1),(Breakfast=2),(Canned=3),(Dairy=4),(FrozenFood=5),(Fruits adn Vegatables=6),(Hard Drink=7),(Health and Hygiene=8),(Household=9),(Meat=10),(Others=11),(Seafood=12),(Snack Food=13),(Soft Drink=14),(Starchy Food=15)</h5>
+
+                <label for="Outlet_Size">Outlet Size:<span title="Choose the size of the outlet: Small (Compact stores), Medium (Standard supermarkets), or Large (Big retail stores).">ℹ️</span> Please Select the Size of an Outlet</label>
+                <select id="Outlet_Size" name="Outlet_Size">
+                    <option value="0">Small</option>
+                    <option value="1">Medium</option>
+                    <option value="2">High</option>
+                </select>
+                <h5>(Small=0),(Medium=1),(High=2)</h5>
+
+                <label for="Outlet_Location_Type">Select Store Location:<span title="Urban Market: Large stores in city areas. Suburban Market: Medium-sized stores in towns. Rural Market: Small stores in villages.">ℹ️</span></label>
+                <select id="Outlet_Location_Type" name="Outlet_Location_Type">
+                    <option value="0">Rural Market (Low Population, Small Stores) </option>
+                    <option value="1">Suburban Market (Medium Population, Mixed Stores)</option>
+                    <option value="2">Urban Market (High Population, Large Stores)</option>
+                </select>
+                <h5>(Rural=0),(Suburban=1),(Urban=2)</h5>
+
+
+                <label for="Outlet_Type">Select Outlet Type:<span title="Local Supermarket: Small to medium-sized stores with basic essentials. Mega Superstore: Large stores with a wide variety of products.">ℹ️</span></label>
+                <select id="Outlet_Type" name="Outlet_Type">
+                    <option value="0">Local Supermarket </option>
+                    <option value="1">Mega Superstore </option>
+                </select>
+                <h5>(Local Supermarket= 0),(Mega Superstore=1)</h5>
+                
+                <label for="Item_Fat_Content">Select Fat Content:<span title="Choose between a lower-fat option for a healthier choice or regular fat content for the standard version.">ℹ️</span></label>
+                <select id="Item_Fat_Content" name="Item_Fat_Content">
+                    <option value="0">Healthy Choice (Low Fat)</option>
+                    <option value="1">Classic (Regular Fat)</option>
+                </select>
+                <h5>(Low Fat=0),(Regular Fat=1)</h5>
+
+                <label for="Item_Weight">Item Weight (kg):<span title="The weight should be between 4.55 kg and 21.35 kg. Enter values with up to 3 decimal places (e.g., 5.123 kg).">ℹ️</span> Please Enter the Range Between 4.55 to 21.35</label>
+                <input type="number" id="Item_Weight" name="Item_Weight" min="4.555" max="21.35" step="0.001" required>
+                <div class="error-message" id="weight-error"></div>
+
+                <label for="Item_Visibility">Item Visibility (%): <span title="Higher values mean the item is placed in a more visible location in the store. Range: 0 (hidden) to 0.328 (highly visible).">ℹ️</span> Please Enter the Value between 0 to 0.328</label>
+                <input type="number" id="Item_Visibility" name="Item_Visibility" min="0.0" max="0.328" step="0.001" required>
+                <div class="error-message" id="visibility-error"></div>
+
+                <label for="Item_MRP">Item MRP (Rs): Enter the Price Betwen 31.29 to 266.89</label>
+                <input type="number" id="Item_MRP" name="Item_MRP" min="31.29" max="266.89" step="0.01" required>
+                <div class="error-message" id="mrp-error"></div>
+
+                <label for="O_Years">Age of the Outlet : <span title="The outlet's age should be between 15 and 39 years. Enter a valid number within this range.">ℹ️</span> Please Enter the age between 15 to 39 </label>
+                <input type="number" id="O_Years" name="O_Years" min="15" max="39" step="1" required>
+                <div class="error-message" id="years-error"></div>
+
+                
+
+
                 <input type="submit" value="Predict">
             </form>
         </div>
     </div>
+
 </body>
 </html>
